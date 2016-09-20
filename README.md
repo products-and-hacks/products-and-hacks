@@ -15,6 +15,8 @@ Forma simples de criar um sistema de formulário, podendo ser feito de forma gra
 * Uma conta no [Mobincube](http://mobincube.mobi/)
 * Uma conta no [Wordpress](https://wordpress.com/create/)
 
+Criada a conta no Wordpress, escolha o tema, por [exemplo](https://niteceuma.wordpress.com/). Insira os dados como queria no Wordpress e em seguida criar a conta no Mobincube. Com isso, cria um novo app usando os _templates_ (escolher o _Web to app_), insira o endereço do seu wordpress e pronto! É  só subir nas lojas de aplicativos. O exemplo do app pode ser encontrado [aqui](http://mobincube.mobi/3GQ49E) :)
+
 #### Forma 2
 * Uma conta no [Github](https://github.com)
 * Um template do [Start Bootstrap](https://startbootstrap.com/)
