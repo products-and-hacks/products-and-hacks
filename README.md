@@ -6,7 +6,7 @@ Trata-se de um dos programas do [NITE-CEUMA](http://nite.ceuma.br) em conjunto c
 
 ## [Inserção de dados](https://github.com/nite-ceuma/products-and-hacks/tree/gh-pages/forms-and-frontends)
 
-Forma simples de criar um sistema de formulário, podendo ser feito de forma gratuita ou gastando pouco com um typefrom pago (exclui o logo do typeform) e a compra de um domínio. Mais informações, [aqui](https://github.com/nite-ceuma/products-and-hacks/tree/gh-pages/forms-and-frontends)
+Forma simples de criar um sistema de formulário, podendo ser feito de forma gratuita ou gastando pouco com um typefrom pago (exclui o logo do typeform) e a compra de um domínio. Mais informações, [aqui](https://github.com/nite-ceuma/products-and-hacks/tree/gh-pages/forms-and-frontends).
 
 ## Mobile App de Conteúdo
 
@@ -14,6 +14,7 @@ Forma simples de criar um sistema de formulário, podendo ser feito de forma gra
 #### Forma 1
 * Uma conta no [Mobincube](http://mobincube.mobi/)
 * Uma conta no [Wordpress](https://wordpress.com/create/)
+* Uma página no [Facebook](https://fb.com)
 
 Criada a conta no Wordpress, escolha o tema, por [exemplo](https://niteceuma.wordpress.com/). Insira os dados como queria no Wordpress e em seguida criar a conta no Mobincube. Com isso, cria um novo app usando os _templates_ (escolher o _Web to app_), insira o endereço do seu wordpress e pronto! É  só subir nas lojas de aplicativos. O exemplo do app pode ser encontrado [aqui](http://mobincube.mobi/3GQ49E) :)
 
