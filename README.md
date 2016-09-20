@@ -21,3 +21,7 @@ Criada a conta no Wordpress, escolha o tema, por [exemplo](https://niteceuma.wor
 * Uma conta no [Github](https://github.com)
 * Um template do [Start Bootstrap](https://startbootstrap.com/)
 * Uma conta no [Typeform](https://typeform.com)
+
+## Outras fontes
+* [7 Tools to Help You Build an App Without Writing Code](https://medium.com/product-hunt/7-tools-to-help-you-build-an-app-without-writing-code-cb4eb8cfe394#.kdyo4gddo)
+* [10 Cool Tools To Build Apps Without Code](http://www.informationweek.com/devops/programming-languages/10-cool-tools-to-build-apps-without-code/d/d-id/1325876)
