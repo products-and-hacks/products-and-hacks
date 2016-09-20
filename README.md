@@ -6,8 +6,16 @@ Trata-se de um dos programas do [NITE-CEUMA](http://nite.ceuma.br) em conjunto c
 
 ## [Inserção de dados](https://github.com/nite-ceuma/products-and-hacks/tree/gh-pages/forms-and-frontends)
 
-Forma simples de criar um sistema de formulário, podendo ser feito de forma gratuita ou gastando pouco com um typefrom pago (exclui o logo do typeform) e a compra de um domínio.
+Forma simples de criar um sistema de formulário, podendo ser feito de forma gratuita ou gastando pouco com um typefrom pago (exclui o logo do typeform) e a compra de um domínio. Mais informações, [aqui](https://github.com/nite-ceuma/products-and-hacks/tree/gh-pages/forms-and-frontends)
 
 ## Mobile App de Conteúdo
 
+### O que é necessário
+#### Forma 1
+* Uma conta no [Mobincube](http://mobincube.mobi/)
+* Uma conta no [Wordpress](https://wordpress.com/create/)
 
+#### Forma 2
+* Uma conta no [Github](https://github.com)
+* Um template do [Start Bootstrap](https://startbootstrap.com/)
+* Uma conta no [Typeform](https://typeform.com)
