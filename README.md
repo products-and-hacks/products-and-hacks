@@ -29,3 +29,7 @@ Criadas as contas, escolhe-se um template e inclui os dados necessários e quand
 ## Outras fontes/ferramentas
 * [7 Tools to Help You Build an App Without Writing Code](https://medium.com/product-hunt/7-tools-to-help-you-build-an-app-without-writing-code-cb4eb8cfe394#.kdyo4gddo)
 * [10 Cool Tools To Build Apps Without Code](http://www.informationweek.com/devops/programming-languages/10-cool-tools-to-build-apps-without-code/d/d-id/1325876)
+
+## Para Bibliotecas
+* [Ícones](http://www.flaticon.com/)
+* [Templates web](https://themeforest.net/) ou [Start Bootstrap](https://startbootstrap.com/)
