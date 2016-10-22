@@ -40,10 +40,10 @@ A paritr da edição #03 o formato foi alterado para centrar ainda mais no apren
 
 ### #03
 * \[Design\] Fazer logos rápidas e sujas com o [Canva](https://www.canva.com/)
+* \[Marketing\] A Definição de [personas](http://resultadosdigitais.com.br/blog/persona-o-que-e/) e como [gerar uma persona](http://geradordepersonas.com.br/)
 * \[Dev\] Fazer html/css "na mão" para aprender o funcionamento dos mesmos
 * \[Dev\] Customizar templates para páginas estática
-* \[Dev\] Aprender a usar o git e publicar páginas estáticas no [Github Pages](https://pages.github.com/)
+* \[Dev\] Aprender a usar o [git](https://git-scm.com/) e publicar páginas estáticas no [Github Pages](https://pages.github.com/)
 * \[Dev\] "Construir" APIs - servir arquivos json - com o [Github](https://github.com)
 * \[Dev\] Construir um chatbot com o [Api.ai](https://api.ai/)
 * \[Analytics\] Aprender webscrapping com o [Importo.io](https://www.import.io/)
-
