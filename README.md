@@ -36,11 +36,12 @@ Criadas as contas, escolhe-se um template e inclui os dados necessários e quand
 * Templates web - [Theme Forest](https://themeforest.net/) ou [Start Bootstrap](https://startbootstrap.com/)
 
 ## Lições aprendidas
-A paritr da terceira edição o formato foi alterado para centrar ainda mais no aprendizado e aqui estão as lições aprendidas (incrementalmente) em cada edição.
+A paritr da edição #03 o formato foi alterado para centrar ainda mais no aprendizado e aqui estão as lições aprendidas (incrementalmente) em cada edição.
 
 ### 03
 * \[Design\] Fazer logos rápidas e sujas com o [Canva](https://www.canva.com/)
 * \[Dev\] Fazer html/css "na mão" para aprender o funcionamento dos mesmos
+* \[Dev\] Customizar templates para páginas estática
 * \[Dev\] Aprender a usar o git e publicar páginas estáticas no [Github Pages](https://pages.github.com/)
 * \[Dev\] "Construir" APIs - servir arquivos json - com o [Github](https://github.com)
 * \[Dev\] Construir um chatbot com o [Api.ai](https://api.ai/)
