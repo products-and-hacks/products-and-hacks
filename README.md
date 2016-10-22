@@ -38,7 +38,7 @@ Criadas as contas, escolhe-se um template e inclui os dados necessários e quand
 ## Lições aprendidas
 A paritr da edição #03 o formato foi alterado para centrar ainda mais no aprendizado e aqui estão as lições aprendidas (incrementalmente) em cada edição.
 
-### 03
+### #03
 * \[Design\] Fazer logos rápidas e sujas com o [Canva](https://www.canva.com/)
 * \[Dev\] Fazer html/css "na mão" para aprender o funcionamento dos mesmos
 * \[Dev\] Customizar templates para páginas estática
