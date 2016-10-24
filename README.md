@@ -47,3 +47,4 @@ A paritr da edição #03 o formato foi alterado para centrar ainda mais no apren
 * \[Dev\] "Construir" APIs - servir arquivos json - com o [Github](https://github.com)
 * \[Dev\] Construir um chatbot com o [Api.ai](https://api.ai/)
 * \[Analytics\] Aprender webscrapping com o [Importo.io](https://www.import.io/)
+* \[Dev\] Aprender a mexer com Arduino usando [Sketch](https://www.arduino.cc/en/tutorial/sketch)
