@@ -49,3 +49,10 @@ A paritr da edição #03 o formato foi alterado para centrar ainda mais no apren
 * \[Dev\] Aprender a mexer com Arduino usando [Sketch](https://www.arduino.cc/en/tutorial/sketch)
 * \[Dev\] Aprender a usar o [Android Studio](https://developer.android.com/studio/index.html?hl=pt-br) para projetos mobile 
 * \[Analytics\] Aprender webscrapping com o [Import.io](https://www.import.io/)
+
+### #05 (diferenças da anterior)
+* \[Dev\] Mexer com a [API - Open graph - do Facebook](https://developers.facebook.com/)
+* \[Dev\] Usar o [Postman](https://www.getpostman.com/) para facilitar a manipulação de API
+* \[Dev\] Usar o [Google App Scripts](https://www.google.com/script/start/) para trazer os emails para planilhas e usar como insumo para roda no [AlchemyAPI](http://www.alchemyapi.com/)
+* \[Dev\] Usar o wrapper em python [Fbrecog](https://github.com/samj1912/fbrecog) para reconhecer pessoas as quais são seus amigos no Facebook
+* \[Dev\] Usar o [Wordpress opensource](https://wordpress.org/)
