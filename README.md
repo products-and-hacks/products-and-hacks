@@ -1,6 +1,6 @@
 # Products and Hacks
 
-Trata-se de um dos programas do [NITE-CEUMA](http://nite.ceuma.br) em conjunto com o [Programa Universitário Empreedendor](http://nite.ceuma.br/wiki/doku.php?id=pue) e é responsável por auxiliar em hacks para produto para os integrantes da comunidade Ceuma e da comunidade de startups.
+O [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=products-and-hacks) e [Programa Universitário Empreedendor](http://nite.ceuma.br/wiki/doku.php?id=pue) são programas do [NITE-CEUMA](http://nite.ceuma.br) e são responsáveis por auxiliar em hacks para criação de produtos e desenvolvimento de competências digitais para os integrantes da comunidade Ceuma e da comunidade de startups.
 
 # Exemplos baseados em casos reais
 
