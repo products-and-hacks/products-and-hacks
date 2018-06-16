@@ -1,18 +1,8 @@
 [< voltar](https://productsandhacks.com)
 
-# Guia para o Organizador
-
-O papel do organizador é ser o responsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
-  1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time. Tamanho máximo do evento 25 pessoas.
-  2. Reunião com [a gente](mailto:oi.nite@ceuma.br) para definir os problemas que podemos ajudar e os que não. 
-  3. Escolha dos facilitadores (mais ou menos 1+ por time).
-  4. Conversa com os facilitadores para alinhamento.
-  5. Criação de um canal de comunicação com todos os partipantes (ex. pelo menos dois grupos de whatsapp sendo um geral e um com os facilitadores).
-  6. Seguir a [dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica) no dia do evento.
-
 # Guia para os Facilitadores
 
-O papel do facilitador é ajudar a destravar os times. Não precisa saber tudo dos _hacks_, mas como resolver e participar do alinhamento. Quando não sabe -> **procura no google junto com time e abusa das [buscas avançadas](https://resultadosdigitais.com.br/blog/pesquisa-avancada-google/) -> pergunta aos outros facilitadores -> joga no grupo geral**. Juntamos as informações necessárias para se facilitar um P&H.
+O papel do facilitador é ajudar a destravar os times. Não precisa saber tudo dos _hacks_, mas como resolver e participar do alinhamento. Quando não sabe -> **procura no google junto com time e abusa das [buscas avançadas](https://resultadosdigitais.com.br/blog/pesquisa-avancada-google/) -> pergunta aos outros facilitadores -> joga no grupo geral**. Claro, não se esqueça de se divertir \0/. Juntamos as informações necessárias para se facilitar um P&H.
   - [O que é o P&H?](https://nite-ceuma.github.io/products-and-hacks/#o-que-é-o-ph)
   - [Perfis dos times](https://nite-ceuma.github.io/products-and-hacks/#perfis-dos-times)
   - [Dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica)
@@ -63,3 +53,13 @@ Esse é o que realmente acredita no problema e não tem ideia de como começar a
   - **20:30 - Apresentação 
   - 21:00 - Hora da PIZZA**
   
+# Quer ser um Organizador
+
+O papel do organizador é ser o responsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
+  1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time. Tamanho máximo do evento 25 pessoas.
+  2. Reunião com [a gente](mailto:oi.nite@ceuma.br) para definir os problemas que podemos ajudar e os que não. 
+  3. Escolha dos facilitadores (mais ou menos 1+ por time).
+  4. Conversa com os facilitadores para alinhamento.
+  5. Criação de um canal de comunicação com todos os partipantes (ex. pelo menos dois grupos de whatsapp sendo um geral e um com os facilitadores).
+  6. Seguir a [dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica) no dia do evento.
+
