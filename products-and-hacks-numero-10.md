@@ -38,5 +38,3 @@ Cidade Fácil | display de ofertas | E-commerce, WordPress ou Marketplace | |
 Gabriel Pestana | Comunidade para ampliar rede de contatos	| Comunidade ou WordPress | |
 Pedalando | AR para informações sobre direitos dos ciclistas | ZapWorks | |		
 Gabi | Plataforma web para acesso de profissionais, conteúdos e histórias dos jovens profissionais maranhenses | WordPress ou Marketplace | |
-
-# to be continued...
