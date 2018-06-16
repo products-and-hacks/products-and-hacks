@@ -14,6 +14,9 @@
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/rafael_fernandes_lopes.png" alt="Rafael Fernandes Lopes">
 [Rafael Fernandes Lopes](https://www.linkedin.com/in/rafael-fernandes-lopes/) - É CTO da ImaginaKIDS e Diretor do Departamento de Empreendedorismo e Inovação e Professor Adjunto da UFMA.
 
+<img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/rayanne_oliveira.png" alt="Rayanne Oliveira">
+[Rayanne Oliveira](https://www.linkedin.com/in/rayanne-oliveira-7537b0158/) - Estudante de Sistemas de Informação da Universidade Ceuma.
+
 # Selecionados
 
 Esses são os projetos selecionados e os respectivos prováveis MVPs.
