@@ -8,6 +8,9 @@
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/atmos_maciel.png" alt="Atmos Maciel">
 [Atmos Maciel](https://www.linkedin.com/in/atmosmaciel/) - Graduado em Ciência da Computação, presidente da comunidade PHP Maranhão e Co-founder da Heptum e Impacto Maker. Eu trabalho, atualmente, como Web Developer (Backend) usando principalmente PHP. "Flertante" com DevOps, Python e programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias web, ciência e inovação.
 
+<img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/gustavo_louhann.png" alt="Gustavo Louhann">
+[Gustavo Louhann](https://www.linkedin.com/in/gustavo-louhann-776b72152/) - Estudante de Engenharia de Produção da Universidade Ceuma.
+
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/jhanyfer_carvalho.png" alt="Jhanyfer Carvalho">
 [Jhanyfer Carvalho](https://www.linkedin.com/in/jhanyfer-carvalho-495bb7146/) - Fundadora da [Urbanas Co&Publish](https://www.linkedin.com/company/urbanas-co-publish/). Aventureira nas horas nunca vagas, e jornalista 24 horas por dia ou mais.
 
