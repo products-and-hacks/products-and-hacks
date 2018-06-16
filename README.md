@@ -25,9 +25,9 @@ O que **não** é:
 
 # Perfil dos times
 
-Basicamente temos 3 tipos de personas.
+Basicamente temos 3 tipos de times.
 
-## O cabeça dura
+## O "cabeça dura"
 
 Normalmente quem entende de TI. O cenârio comum é aluno de SI/Computação e que quer fazer um "app" e não quer nem saber do problema...só quer fazer o app.
 
