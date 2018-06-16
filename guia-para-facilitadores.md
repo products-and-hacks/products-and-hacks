@@ -53,7 +53,7 @@ Esse é o que realmente acredita no problema e não tem ideia de como começar a
   - **20:30 - Apresentação** 
   - **21:00 - Hora da PIZZA**
   
-# Quer ser um Organizador
+# Quer ser um Organizador?
 
 O papel do organizador é ser o responsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
   1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time. Tamanho máximo do evento 25 pessoas.
