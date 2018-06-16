@@ -5,12 +5,14 @@
 [Otavio Nascimento](https://www.linkedin.com/in/otávionas/) - Estudante de Design na Universidade CEUMA. Colaborador da fundação da Liga Acadêmica de Design, além de ser membro consultivo. Atua no Insight - evento de interação entre alunos de Design, também um dos mentores do 1° Design Day. Acredita num mundo onde a colaboração seja fundamental para fins de qualidade, produtividade e compartilhamento de conhecimento, dentro e fora do ambiente de trabalho.
 
 # Facilitadores
+<img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/atmos_maciel.png" alt="Atmos Maciel">
+[Atmos Maciel](https://www.linkedin.com/in/atmosmaciel/) - Graduado em Ciência da Computação, presidente da comunidade PHP Maranhão e Co-founder da Heptum e Impacto Maker. Eu trabalho, atualmente, como Web Developer (Backend) usando principalmente PHP. "Flertante" com DevOps, Python e programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias web, ciência e inovação.
+
+<img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/jhanyfer_cavalho.png" alt="Jhanyfer Carvalho">
+[Jhanyfer Carvalho](https://www.linkedin.com/in/jhanyfer-carvalho-495bb7146/) - Aventureira nas horas nunca vagas, e jornalista 24 horas por dia ou mais.
 
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/rafael_fernandes_lopes.png" alt="Rafael Fernandes Lopes">
 [Rafael Fernandes Lopes](https://www.linkedin.com/in/rafael-fernandes-lopes/) - É CTO da ImaginaKIDS e Diretor do Departamento de Empreendedorismo e Inovação e Professor Adjunto da UFMA.
-
-<img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/atmos_maciel.png" alt="Atmos Maciel">
-[Atmos Maciel](https://www.linkedin.com/in/atmosmaciel/) - Graduado em Ciência da Computação, presidente da comunidade PHP Maranhão e Co-founder da Heptum e Impacto Maker. Eu trabalho, atualmente, como Web Developer (Backend) usando principalmente PHP. "Flertante" com DevOps, Python e programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias web, ciência e inovação.
 
 # Selecionados
 
