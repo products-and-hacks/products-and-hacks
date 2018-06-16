@@ -56,3 +56,7 @@ A paritr da edição #03 o formato foi alterado para centrar ainda mais no apren
 * \[Dev\] Usar o [Google App Scripts](https://www.google.com/script/start/) para trazer os emails para planilhas e usar como insumo para roda no [AlchemyAPI](http://www.alchemyapi.com/)
 * \[Dev\] Usar o wrapper em python [Fbrecog](https://github.com/samj1912/fbrecog) para reconhecer pessoas as quais são seus amigos no Facebook
 * \[Dev\] Usar o [Wordpress opensource](https://wordpress.org/)
+
+## Selecionados
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxDMa4pF7dEgFqXoXRxG-v4ukygEuASJT8fAjgRdJjQfN2og04oFg8S8gTlcf4-m_Rg0ey-qjKXgG-/pubhtml?gid=532828105&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
