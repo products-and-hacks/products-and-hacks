@@ -2,7 +2,7 @@
 # Organizador
 
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/otavio_nascimento.png" alt="Otávio Nascimento">
-[Otavio Nascimento](https://www.linkedin.com/in/otávionas/) - Estudante de Design na Universidade CEUMA. Colaborador da fundação da Liga Acadêmica de Design, além de ser membro consultivo. Atua no Insight - evento de interação entre alunos de Design, também um dos mentores do 1° Design Day. Acredita num mundo onde a colaboração seja fundamental para fins de qualidade, produtividade e compartilhamento de conhecimento, dentro e fora do ambiente de trabalho.
+[Otavio Nascimento](https://www.linkedin.com/in/otávionas/) - Presidente da Segno Studio E.J. Design, estudante de Design na Universidade CEUMA. Colaborador da fundação da Liga Acadêmica de Design, além de ser membro consultivo. Atua no Insight - evento de interação entre alunos de Design, também um dos mentores do 1° Design Day. Acredita num mundo onde a colaboração seja fundamental para fins de qualidade, produtividade e compartilhamento de conhecimento, dentro e fora do ambiente de trabalho.
 
 # Facilitadores
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/atmos_maciel.png" alt="Atmos Maciel">
