@@ -7,7 +7,7 @@ Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=product
   - [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)
   - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
   - [Lições aprendidas da edições anteriores a #10](https://nite-ceuma.github.io/products-and-hacks/licoes-aprendidas-das-edicoes-passadas)
-  - [Lições aprendidas da edição #10](https://nite-ceuma.github.io/products-and-hacks/licoes-aprendidas-da-edicao-10)
+  - [Products and Hacks #10](https://nite-ceuma.github.io/products-and-hacks/products-and-hacks-numero-10)
 
 
 # O que é o P&H?
