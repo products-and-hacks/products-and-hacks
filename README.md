@@ -1,16 +1,18 @@
 Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=products-and-hacks) do [NITE-CEUMA](http://nite.ceuma.br) responsável por auxiliar em _hacks_ para criação de produtos e desenvolvimento de competências digitais para os integrantes da comunidade Ceuma e da comunidade de startups. **Não é necessário saber programar para participar de um P&H e seguimos a [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)**. O foco aqui é disponibilizar informações para quem quiser organizar um P&H.
 
-## Guia para os Facilitadores
+## Acesso rápido
+
+  - [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)
+  - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
+  - [Products and Hacks #10](https://nite-ceuma.github.io/products-and-hacks/products-and-hacks-numero-10)
+
+# Guia para os Facilitadores
   - [O que é o P&H?](https://nite-ceuma.github.io/products-and-hacks/#o-que-é-o-ph)
   - [Perfis dos times](https://nite-ceuma.github.io/products-and-hacks/#perfis-dos-times)
   - [Dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica)
-  - [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)
-  - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
   - [Lições aprendidas da edições anteriores a #10](https://nite-ceuma.github.io/products-and-hacks/licoes-aprendidas-das-edicoes-passadas)
-  - [Products and Hacks #10](https://nite-ceuma.github.io/products-and-hacks/products-and-hacks-numero-10)
 
-
-# O que é o P&H?
+## O que é o P&H?
 Explicando com #freebulletpoints. O que é:
   - É focado no **pós-definição do problema**, ou seja, já passou por uma [validação do problema](https://universidadeagora.com/2018/06/06/25270/trilha-empreendedor-digital-defina-muito-bem-o-problema/)
   - É para construir MVP de um produto **digital**
@@ -23,23 +25,23 @@ O que **não** é:
   - Uma aula...não mesmo :)
 
 
-# Perfis dos times
+## Perfis dos times
 
 Basicamente temos 3 tipos de times.
 
-## O "cabeça dura"
+### O "cabeça dura"
 
 Normalmente quem entende de TI. O cenârio comum é aluno de SI/Computação e que quer fazer um "app" e não quer nem saber do problema...só quer fazer o app.
 
-## O "deixa para amanhã"
+### O "deixa para amanhã"
 
 A gente explica o que tem que fazer...meia hora depois elx fala: "Pô, muito legal o evento, infelizmente tenho que ir agora e vou fazer amanhã".
 
-## O "Ih, não sei para onde ir, mas quero muito"
+### O "Ih, não sei para onde ir, mas quero muito"
 
 Esse é o que realmente acredita no problema e não tem ideia de como começar a solucionar. Normalmente tem boa vontade e estão mais abertos a aprender.
 
-# Dinâmica
+## Dinâmica
 
   - 08:10 - Início do credenciamento e _networking_
   - 09:00 - Boas Vindas e Apresentação dos facilitadores
