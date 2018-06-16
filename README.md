@@ -2,7 +2,7 @@ Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=product
 
 ## Guia para os Facilitadores
   - [O que é o P&H?](https://nite-ceuma.github.io/products-and-hacks/#o-que-é-o-ph)
-  - [Perfil dos times](https://nite-ceuma.github.io/products-and-hacks/#perfil-dos-times)
+  - [Perfis dos times](https://nite-ceuma.github.io/products-and-hacks/#perfis-dos-times)
   - [Dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica)
   - [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)
   - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
@@ -23,7 +23,7 @@ O que **não** é:
   - Uma aula...não mesmo :)
 
 
-# Perfil dos times
+# Perfis dos times
 
 Basicamente temos 3 tipos de times.
 
