@@ -50,8 +50,8 @@ Esse é o que realmente acredita no problema e não tem ideia de como começar a
   - 13:00 - Retorno
 
   - 19:30 - Preparar apresentação dos depoimentos
-  - **20:30 - Apresentação 
-  - 21:00 - Hora da PIZZA**
+  - **20:30 - Apresentação** 
+  - **21:00 - Hora da PIZZA**
   
 # Quer ser um Organizador
 
