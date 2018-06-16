@@ -14,14 +14,14 @@ Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=product
   
 # FAQ
   
-## Eu já tenho um produto, faz sentido eu ir?
+### Eu já tenho um produto, faz sentido eu ir?
 Claro! Se você saber um dor do cliente - o [problema bem definido](https://universidadeagora.com/2018/06/06/25270/trilha-empreendedor-digital-defina-muito-bem-o-problema/) - e quer fazer de forma rápida, é só chegar mais. Tem um vídeo explicando o [Minimal Viable Feature](https://www.youtube.com/watch?v=DEXNf2xjyRw).
  
-## Nenhum dos hacks serve para o design que eu pensei, o que faço?
+### Nenhum dos hacks serve para o design que eu pensei, o que faço?
 Se você REALMENTE achar que o design é o diferencial do seu produto, aconselhamos usar o [Bubble.is](https://bubble.is). Entretanto, não desconsidere o trabalho que os outros já tiveram de UI/UX fazendo um serviço/projeto _open source_. Há um motivo para eles terem sucesso, lembre-se de [amar o problema e não a solução](https://universidadeagora.com/2018/06/05/25245/trilha-empreendedor-digital-ame-o-problema-nao-a-solucao/). :)
 
-## Meu time ainda nem fez o customer discovery, mas a gente tem uma ideia do problema...devemos participar?
+### Meu time ainda nem fez o customer discovery, mas a gente tem uma ideia do problema...devemos participar?
 Sim! O que importa do P&H é o conhecimento para se lançar um MVP RÁPIDO e FUNCIONAL. O produto em si, é secundário e muitas vezes descartável (MVP é para gerar dados, _feedbacks_ e _insights_). Entretanto, ter produto não quer dizer nada, se você não tiver o [desenvolvimento do cliente](https://pt.slideshare.net/startuplessonslearned/introduction-to-customer-development-at-the-lean-startup-intensive-at-web-20-expo-by-steve-blank/50-Product_Development_at_Lean_Startup).
 
-## Não entendi do que se difere de um Startup Weekend
+### Não entendi do que se difere de um Startup Weekend
 Muita coisa! O foco do Startup Weekend é no desenvolvimento do cliente (_customer development_, no qual o foco é ter hipóteses, experimentos - com o produto desenvolvido ou "na mão" - e _insights) e o foco do P&H está no desenvolvimento do produto (_product development_). Na prática, ambos andam juntos. Não queremos que os nossos participantes sejam uma startup de _landing page_ ou de _mockups_, **queremos que tenham produtos reais** - nosso querido MVP ou MVF (aqui tem uma distinção boa do [desenvolvimento do cliente e do produto](https://pt.slideshare.net/startuplessonslearned/introduction-to-customer-development-at-the-lean-startup-intensive-at-web-20-expo-by-steve-blank/50-Product_Development_at_Lean_Startup)). 
