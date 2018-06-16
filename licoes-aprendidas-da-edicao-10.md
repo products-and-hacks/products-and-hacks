@@ -9,7 +9,7 @@
 [Atmos Maciel](https://www.linkedin.com/in/atmosmaciel/) - Graduado em Ciência da Computação, presidente da comunidade PHP Maranhão e Co-founder da Heptum e Impacto Maker. Eu trabalho, atualmente, como Web Developer (Backend) usando principalmente PHP. "Flertante" com DevOps, Python e programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias web, ciência e inovação.
 
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/jhanyfer_carvalho.png" alt="Jhanyfer Carvalho">
-[Jhanyfer Carvalho](https://www.linkedin.com/in/jhanyfer-carvalho-495bb7146/) - Aventureira nas horas nunca vagas, e jornalista 24 horas por dia ou mais.
+[Jhanyfer Carvalho](https://www.linkedin.com/in/jhanyfer-carvalho-495bb7146/) - Fundadora da [Urbanas Co&Publish](https://www.linkedin.com/company/urbanas-co-publish/). Aventureira nas horas nunca vagas, e jornalista 24 horas por dia ou mais.
 
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/rafael_fernandes_lopes.png" alt="Rafael Fernandes Lopes">
 [Rafael Fernandes Lopes](https://www.linkedin.com/in/rafael-fernandes-lopes/) - É CTO da ImaginaKIDS e Diretor do Departamento de Empreendedorismo e Inovação e Professor Adjunto da UFMA.
