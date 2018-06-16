@@ -1,8 +1,8 @@
 [< voltar](https://productsandhacks.com)
 
-# Se quiser ser o Organizador
+# Guia para o Organizador
 
-Juntamos as informações necessárias para se facilitar um P&H. Para organizar um, há alguns passos a seguir:
+Para organizar um, há alguns passos a seguir:
   1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time.
   2. Reunião com [a gente](mailto:oi.nite@ceuma.br) para definir os problemas que podemos ajudar e os que não. 
   3. Escolha dos facilitadores (mais ou menos 1+ por time).
@@ -11,6 +11,8 @@ Juntamos as informações necessárias para se facilitar um P&H. Para organizar 
   6. Seguir a [dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica) no dia do evento.
 
 # Guia para os Facilitadores
+
+Juntamos as informações necessárias para se facilitar um P&H.
   - [O que é o P&H?](https://nite-ceuma.github.io/products-and-hacks/#o-que-é-o-ph)
   - [Perfis dos times](https://nite-ceuma.github.io/products-and-hacks/#perfis-dos-times)
   - [Dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica)
