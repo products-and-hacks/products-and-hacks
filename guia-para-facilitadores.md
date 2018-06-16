@@ -1,4 +1,4 @@
-[< voltar](https://productsandhacks.com]
+[< voltar](https://productsandhacks.com)
 
 # Guia para os Facilitadores
   - [O que é o P&H?](https://nite-ceuma.github.io/products-and-hacks/#o-que-é-o-ph)
