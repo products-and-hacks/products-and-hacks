@@ -23,10 +23,11 @@
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/rayanne_oliveira.png" alt="Rayanne Oliveira">
 [Rayanne Oliveira](https://www.linkedin.com/in/rayanne-oliveira-7537b0158/) - Estudante de Sistemas de Informação da Universidade Ceuma.
 
-# Selecionados
+# Lições aprendidas
 
-Esses são os projetos selecionados e os respectivos prováveis MVPs.
+Time         | Possível solução | Hacks pensados para os times | Na prática o que aconteceu
+------------ | -------------    | -------------                | ------------- | 
+As Pi Tec | Portifólio de Designers | Marketplace, E-commerce ou WordPress | |
 
-<iframe style="width: 100% !important;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxDMa4pF7dEgFqXoXRxG-v4ukygEuASJT8fAjgRdJjQfN2og04oFg8S8gTlcf4-m_Rg0ey-qjKXgG-/pubhtml?gid=532828105&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 # to be continued...
