@@ -1,7 +1,7 @@
 
 <img style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/logo.png" alt="Products and Hacks - logo">
 
-Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=products-and-hacks) do [NITE-CEUMA](http://nite.ceuma.br) responsável por auxiliar em _hacks_ para criação de produtos e desenvolvimento de competências digitais para os integrantes da comunidade Ceuma e da comunidade de startups. **Não é necessário saber programar para participar de um P&H e seguimos a [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)**. O foco aqui é disponibilizar informações para quem quiser organizar um P&H.
+Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=products-and-hacks) do [NITE-CEUMA](http://nite.ceuma.br)! Aqui se auxilia em _hacks_ para criação de produtos digitais. e desenvolvimento de competências para a criação de MVPs. **Não é necessário saber programar para participar de um P&H e seguimos a [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)** da [Universidade Agora](https://universidadeagora.com). Somos apaixonados pela cultura do aberto e livre e aqui disponibilizamos as informações para se organizar um P&H, os envolvidos e ~~os erros~~ as lições aprendidas.
 
 ## Acesso rápido
 
@@ -10,4 +10,18 @@ Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=product
   - [Guia para Facilitadores](https://productsandhacks.com/guia-para-facilitadores)
   - [Products and Hacks #10](https://nite-ceuma.github.io/products-and-hacks/products-and-hacks-numero-10)
 
-  **Conseguiu montar o MVP e quer ganhar um _badge_?! Manda para [nós](https://universidadeagora.com/contato/) explicando o MVP e como construi para podermos avaliar!** 
+  **Conseguiu montar o MVP e quer ganhar um [_badge_](https://comunidade.universidadeagora.com/badges)?! Manda para [nós](https://universidadeagora.com/contato/) explicando o MVP e como construi para podermos avaliar!** 
+  
+# FAQ
+  
+## Eu já tenho um produto, faz sentido eu ir?
+Claro! Se você saber um dor do cliente - o [problema bem definido](https://universidadeagora.com/2018/06/06/25270/trilha-empreendedor-digital-defina-muito-bem-o-problema/) - e quer fazer de forma rápida, é só chegar mais. Tem um vídeo explicando o [Minimal Viable Feature](https://www.youtube.com/watch?v=DEXNf2xjyRw)
+ 
+## Nenhum dos hacks serve para o design que eu pensei, o que faço?
+Se você REALMENTE achar que o design é o diferencial do seu produto, aconselhamos usar o [Bubble.is](https://bubble.is). Entretanto, não desconsidere o trabalho que os outros já tiveram de UI/UX fazendo um serviço/projeto _open source_. Há um motivo para eles terem sucesso, lembre-se de [amar o problema e não a solução](https://universidadeagora.com/2018/06/05/25245/trilha-empreendedor-digital-ame-o-problema-nao-a-solucao/) :)
+
+## Meu time ainda nem fez o customer discovery, mas a gente tem uma ideia do problema...devemos participar?
+Sim! O que importa do P&H é o conhecimento para se lançar um MVP RÁPIDO e FUNCIONAL. O produto em si, é secundário e muitas vezes descartável (MVP é para gerar dados, _feedbacks_ e _insights_).
+
+## Não entendi do que se difere de um Startup Weekend
+Muita coisa! O foco do Startup Weekend é no desenvolvimento do cliente (customer development) e o foco do P&H está no desenvolvimento do produto (_product development_). Na prática, ambos andam juntos. Não queremos que os nossos participantes sejam uma startup de _landing page_ ou de _mockups_, **queremos que tenham produtos reais** - nosso querido MVP ou MVF. 
