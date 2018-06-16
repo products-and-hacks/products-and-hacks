@@ -26,8 +26,17 @@
 # Lições aprendidas
 
 Time         | Possível solução | Hacks pensados para os times | Na prática o que aconteceu
------------- | -------------    | -------------                | ------------- | 
+------------ | ------------- | ------------- | ------------- | 
 As Pi Tec | Portifólio de Designers | Marketplace, E-commerce ou WordPress | |
-
+Charmanderes | Portifólio de Designers | Marketplace, E-commerce ou WordPress | |
+Cronos | Gestão de tempo de estudo | Sistema de Gestão ou Wekan | |
+Shop das peças | Matching por Inteligência Artificial | Sistema de Gestão ou Google Sheets com Solver | |
+Rocket | Marketplace para encontrar transporte adequado para crianças | Marketplace ou Sistema de Gestão | |
+Gabriel | Comunidade para ampliação do networking  para é iniciantes | Comunidade ou WordPress | |	
+Franciss | Sistema para agiliar processos em Consultoria Contábel | Sistema de Gestão | |		
+Cidade Fácil | display de ofertas | E-commerce, WordPress ou Marketplace | |
+Gabriel Pestana | Comunidade para ampliar rede de contatos	| Comunidade ou WordPress | |
+Pedalando | AR para informações sobre direitos dos ciclistas | ZapWorks | |		
+Gabi | Plataforma web para acesso de profissionais, conteúdos e histórias dos jovens profissionais maranhenses | WordPress ou Marketplace | |
 
 # to be continued...
