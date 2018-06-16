@@ -2,8 +2,8 @@
 
 # Guia para o Organizador
 
-O papel do organizador é ser o resopnsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
-  1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time.
+O papel do organizador é ser o responsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
+  1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time. Tamanho máximo do evento 25 pessoas.
   2. Reunião com [a gente](mailto:oi.nite@ceuma.br) para definir os problemas que podemos ajudar e os que não. 
   3. Escolha dos facilitadores (mais ou menos 1+ por time).
   4. Conversa com os facilitadores para alinhamento.
@@ -24,18 +24,18 @@ O papel do facilitador é ajudar a destravar os times. Não precisa saber tudo d
 ### O que é:
   - É focado no **pós-definição do problema**, ou seja, já tem uma [validação do problema](https://universidadeagora.com/2018/06/06/25270/trilha-empreendedor-digital-defina-muito-bem-o-problema/) ou quer aprender independente do uso da ferramenta.
   - É para construir MVP de um produto **digital**, ou seja, na fase de desenvolvimento do produto.
-  - É se beneficiar do UI/UX, desenvolvimento e testes dos outros, ou seja, **usar serviços e projetos _open source_**
-  - Um local para falhar e **aprender** bastante no processo, o produto é secundário comparado com o aprendizado
+  - É se beneficiar do UI/UX, desenvolvimento e testes dos outros, ou seja, **usar serviços e projetos _open source_**.
+  - Um local para falhar e **aprender** bastante no processo, o produto é secundário comparado com o aprendizado.
   
 ### O que **não** é:
-  - Startup Weekend, pois o foco é na **construção do produto** e não na validação do negócio. Lembre-se o foco é [na criação do cliente](https://universidadeagora.com/2018/06/05/25245/trilha-empreendedor-digital-ame-o-problema-nao-a-solucao/)
-  - Uma competição e muito menos um _hackathon_. O foco não é o código, mas **construir produtos** - muitas vezes descartáveis - e se conectar com a comunidade
-  - Uma aula...não mesmo :)
+  - Startup Weekend, pois o foco é na **construção do produto** e não na validação do negócio. Lembre-se o foco é [na criação do cliente](https://universidadeagora.com/2018/06/05/25245/trilha-empreendedor-digital-ame-o-problema-nao-a-solucao/).
+  - Uma competição e muito menos um _hackathon_. O foco não é o código, mas **construir produtos** - muitas vezes descartáveis - e se conectar com a comunidade.
+  - Uma aula...não mesmo. :)
 
 
 ## Perfis dos times
 
-Basicamente temos 3 tipos de times.
+É sempre bom times pequenos, o famoso [time de duas pizzas](https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success). Basicamente, temos 3 tipos de times. 
 
 ### O "cabeça dura"
 
@@ -60,6 +60,6 @@ Esse é o que realmente acredita no problema e não tem ideia de como começar a
   - 13:00 - Retorno
 
   - 19:30 - Preparar apresentação dos depoimentos
-  - 20:30 - Apresentação 
-  - 21:00 - Hora da PIZZA
+  - **20:30 - Apresentação 
+  - 21:00 - Hora da PIZZA**
   
