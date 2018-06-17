@@ -1,7 +1,7 @@
 
 <img style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/logo.png" alt="Products and Hacks - logo">
 
-Bem-vindos ao [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=products-and-hacks) do [NITE-CEUMA](http://nite.ceuma.br)! Aqui se auxilia em _hacks_ para criação de produtos digitais e desenvolvimento das competências para a criação de MVPs. **Não é necessário saber programar para participar de um P&H e seguimos a [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/) da [Universidade Agora](https://universidadeagora.com)**. Somos apaixonados pela cultura aberta e livre e aqui disponibilizamos as informações para se organizar um P&H, os envolvidos nos anteriores e ~~os erros~~ as lições aprendidas.
+Evento focado no "desenvolvimento" ultra ágil de produtos digitiais. O [Products and Hacks](http://nite.ceuma.br/wiki/doku.php?id=products-and-hacks) do [NITE-CEUMA](http://nite.ceuma.br) auxilia em _hacks_ para criação de produtos digitais e desenvolvimento das competências para a criação de MVPs. **Não é necessário saber programar para participar de um P&H e seguimos a [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/) da [Universidade Agora](https://universidadeagora.com)**. Somos apaixonados pela cultura aberta e livre e aqui disponibilizamos as informações para se organizar um P&H, os envolvidos nos anteriores e ~~os erros~~ as lições aprendidas.
 
 ## Acesso rápido
 
