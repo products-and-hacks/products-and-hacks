@@ -23,6 +23,9 @@
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/rayanne_oliveira.png" alt="Rayanne Oliveira">
 [Rayanne Oliveira](https://www.linkedin.com/in/rayanne-oliveira-7537b0158/) - Estudante de Sistemas de Informação da Universidade Ceuma.
 
+<img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/thiago_paz.png" alt="Thiago Paz">
+[Thiago Paz](https://www.linkedin.com/in/thiago-paz-6b0816165/) - Estudante de Sistemas de Informação da Universidade Ceuma.
+
 # Lições aprendidas
 
 Time         | Possível solução | Hacks pensados para os times | Na prática o que aconteceu
