@@ -16,9 +16,10 @@ _Hacks_ | Casos |
 Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
 
 # Quais os desafios
-Startup         | Objetivo (Dor) | _Hacks_ sugeridos | Na prática o que aconteceu |
------------- | ------------- | ------------- | ------------- | 
-Imagina KIDS | | | |
+
+Startup      | Objetivo (Dor) | _Hacks_ sugeridos | Na prática o que aconteceu |
+------------ | -------------  | -------------     | ------------- | 
+Imagina KIDS |                |                   |               |
 Shop da Peça | ver quanto evoluiu no P&H | | | 
 Lifefood | Desenvolver MVP| | |
 I9TECH | | | |
