@@ -1,6 +1,11 @@
 [< voltar](https://productsandhacks.com)
 
-Sejam bem-vindos! Temos um grande desafio: desenvolver nossos produtos da maneira mais 
+Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o Inova Maranhão! Temos um grande desafio: desenvolver nossos produtos/features da maneira mais ágil possível e mesmo assim, entregando o valor que se quer validar para a solução. Temos alguns pressupostos:
+
+  - Que vocês já possuem o problema bem definido (usando o método que for);
+  - Estão desapegados da solução em si, mas amam e resolverão o problema no melhor balanço de custo *vs* benefício;
+  - 
+  
 
 # Antes de começar...
 
@@ -17,26 +22,26 @@ Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
 
 # Quais os desafios
 
-Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu |
------------- | -------------  | -------------     | ------------- | 
-Imagina KIDS |                |                   |               |
-Shop da Peça | ver quanto evoluiu no P&H | | | 
-Lifefood | Desenvolver MVP| | |
-I9TECH | | | |
-Biofluid | Desenvolver MVP | | |
-Servido | | | |
-AppCare | Desenvolver MVP | | |
-Dona Rita | Desenvolver MVP | | |
-Autodum | | | |
-Behapp | | | |
-Estacioni App | Desenvolver MVP | | |
-Up Entregas | Desenvolver MVP | | |
-Jus Advogados | | | |
-Appace | Desenvolver MVP | | |
-Eyetech | | | |
-Tecteca | Desenvolver MVP | | |
-Zone | Desenvolver MVP| | |
-Pick Place | Desenvolver MVP | | |
+Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu | Grupo |
+------------ | -------------  | -------------      | -------------   | ------------- |
+Imagina KIDS |                |                   |               | 1 |
+Shop da Peça | ver quanto evoluiu no P&H | | | 1 |
+Lifefood | Desenvolver MVP| | | 1 |
+I9TECH | | | | 1 |
+Biofluid | Desenvolver MVP | | | 1 |
+Servido | | | | 2 |
+AppCare | Desenvolver MVP | | | 2 |
+Dona Rita | Desenvolver MVP | | | 2 |
+Autodum | | | | 2 |
+Behapp | | | | 2 |
+Estacioni App | Desenvolver MVP | | | 3 |
+Up Entregas | Desenvolver MVP | | | 3 |
+Jus Advogados | | | | 3 |
+Appace | Desenvolver MVP | | | 3 |
+Eyetech | | | | 3 |
+Tecteca | Desenvolver MVP | | | 4 |
+Zone | Desenvolver MVP| | | 4 |
+Pick Place | Desenvolver MVP | | | 4 |
 
 
 # Facilitador
