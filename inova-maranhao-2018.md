@@ -1,10 +1,11 @@
 [< voltar](https://productsandhacks.com)
 
-Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o Inova Maranhão! Temos um grande desafio: desenvolver nossos produtos/features da maneira mais ágil possível e mesmo assim, entregando o valor que se quer validar para a solução. Temos alguns pressupostos:
+Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o [Inova Maranhão](http://inova.ma.gov.br)! Temos um grande desafio: **desenvolver nossos produtos/features da maneira mais ágil possível e entregar o valor para o cliente**. Temos alguns pressupostos:
 
-  - Que vocês já possuem o problema bem definido (usando o método que for);
-  - Estão desapegados da solução em si, mas amam e resolverão o problema no melhor balanço de custo *vs* benefício;
-  - 
+  - Possuir o **problema bem definido** (usando o método que for);
+  - Estar **desapegados da solução** em si, mas amam e resolverão o problema no melhor balanço de custo *vs* benefício;
+  - Querer se beneficiar do UI/UX, desenvolvimento e testes feitos pelos outros, ou seja, **usar SaaS (serviços na nuvem) e projetos conhecidos (o poder do _open source_)**; e
+  - Estar disposta a **falhar**, o melhor aprendizado é os *insights* saídos de ter o produto na mão do cliente.
   
 
 # Antes de começar...
