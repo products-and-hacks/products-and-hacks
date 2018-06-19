@@ -38,7 +38,7 @@ Estacioni App | Desenvolver MVP | | | 3 |
 Up Entregas | Desenvolver MVP | | | 3 |
 Jus Advogados | | | | 3 |
 Appace | Desenvolver MVP | | | 3 |
-Eyetech | | | | 3 |
+Eyetech | | | | 4 |
 Tecteca | Desenvolver MVP | | | 4 |
 Zone | Desenvolver MVP| | | 4 |
 Pick Place | Desenvolver MVP | | | 4 |
