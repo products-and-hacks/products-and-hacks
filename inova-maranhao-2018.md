@@ -1,5 +1,24 @@
 [< voltar](https://productsandhacks.com)
 
+Sejam bem-vindos! Temos um grande desafio: desenvolver nossos produtos da maneira mais 
+
+# Antes de começar...
+
+  - [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)
+  - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
+  - [FAQ](https://productsandhacks.com/#faq)
+  - [Minimal Viable Feature](https://www.youtube.com/watch?v=DEXNf2xjyRw)
+  
+# Qual _hack_ para qual problema?
+
+_Hacks_ | Casos | 
+------------- | ------------- | 
+Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
+
+# Quais os desafios
+Startup         | Desafio (Dor) | _Hacks_ sugeridos | Na prática o que aconteceu |
+------------ | ------------- | ------------- | ------------- | 
+ |  | | |
 
 # Facilitador
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/efrem_maranhao_filho.png" alt="Éfrem Maranhão Filho">
