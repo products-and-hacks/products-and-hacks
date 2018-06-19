@@ -17,26 +17,9 @@ Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
 
 # Quais os desafios
 
-Startup      | Objetivo (Dor) | _Hacks_ sugeridos | Na prática o que aconteceu |
+Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu |
 ------------ | -------------  | -------------     | ------------- | 
 Imagina KIDS |                |                   |               |
-Shop da Peça | ver quanto evoluiu no P&H | | | 
-Lifefood | Desenvolver MVP| | |
-I9TECH | | | |
-Biofluid | Desenvolver MVP | | |
-Servido | | | |
-AppCare | Desenvolver MVP | | |
-Dona Rita | Desenvolver MVP | | |
-Autodum | | | |
-Behapp | | | |
-Estacioni App | Desenvolver MVP | | |
-Up Entregas | Desenvolver MVP | | |
-Jus Advogados | | | |
-Appace | Desenvolver MVP | | |
-Eyetech | | | |
-Tecteca | Desenvolver MVP | | |
-Zone | Desenvolver MVP| | |
-Pick Place | Desenvolver MVP | | |
 
 # Facilitador
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/efrem_maranhao_filho.png" alt="Éfrem Maranhão Filho">
