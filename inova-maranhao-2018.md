@@ -1,6 +1,6 @@
 [< voltar](https://productsandhacks.com)
 
-Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o [Inova Maranhão](http://inova.ma.gov.br)! Temos um grande desafio: **desenvolver nossos produtos/features da maneira mais ágil possível e entregar o valor para o cliente**. Temos alguns pressupostos:
+Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o [Inova Maranhão](http://inova.ma.gov.br), que aonctecerá nos dia **2, 3 e 4 de julho de 2018**! Temos um grande desafio: desenvolver nossos produtos/features da maneira mais ágil possível e entregar o valor para o cliente. Temos alguns pressupostos:
 
   - Possuir o **problema bem definido** (usando o método que for);
   - Estar **desapegado da solução** em si, mas amam  o problema e resolverão no melhor balanço de custo *vs* benefício;
@@ -10,17 +10,23 @@ Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob
   - Entender que estamos falando de **produtos digitais e o uso de _hacks_** para isso. O foco é entregar produtos digitais com menos trabalho braçal e menos prótotipo e mais produto.
   
 
-# Antes de começar...
-
-  - [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)
-  - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
-  - [FAQ](https://productsandhacks.com/#faq)
-  - [Minimal Viable Feature](https://www.youtube.com/watch?v=DEXNf2xjyRw)
-  
 # Como vai funcionar?
 
-Usaremos o [Zoom](https://zoom.us) para nos encontrar e um grupo de whatsapp para trocarmos mensagens. Cada startup criará um grupo com o facilitador e pode interagir sempre por lá. Colocar o nome "P&H - Inova - [NOME DA STARTUP]". Temos a comunicação constante e a qualquer momento, pode-se fazer uma videoconferência se não conseguirmos esclarecer pelo Whatsapp. Seguiremos a seguinte programação:
-  - **9:00-09:30** Setup, nos encontramos todos no  no link disponibilizado para se passar a agenda e alinhamento geral do grupo.
+## Antes de workshop...
+
+  - Saber qual o problema quer resolver;
+    - Se for uma feature, ver o [Minimal Viable Feature](https://www.youtube.com/watch?v=DEXNf2xjyRw);
+  - Estudar a [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/) e discutir sobre cada _hack_ nas [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp);
+  - Dar uma lida no [FAQ](https://productsandhacks.com/#faq);
+  - Toda a equipe participa, principalmente os envolvidos com produto, desenvolvimento e design;
+  - Estar junta a startup (equipe), provalvemente no local acordado;
+  - Criar grupo de discussão o quanto antes do workshop para cada startup com o nome **P&H - Inova - [NOME DA STARTUP]**;
+  - Saber que o facilitador ficará remoto e disponível todo o horário por videoconferênica e no grupo de discussão no Whatsapp;
+
+Usaremos o [Zoom](https://zoom.us) para nos encontrar e o grupo de whatsapp para discutirmos. Pode interagir sempre por lá. Temos a comunicação constante e a qualquer momento, pode-se fazer uma videoconferência se não conseguirmos esclarecer pelo Whatsapp. 
+
+Seguiremos a seguinte programação:
+  - **9:00-09:30** Setup, nos encontramos todos no link disponibilizado para se passar a agenda e alinhamento geral do grupo.
   - **9:30-11:00** Alinhamento com cada startup individualmente do que conseguiremos fazer
   - **11:00-12:00** Início do desenvolvimento do MVP.
   - **12:00-13:00** Almoço
@@ -36,26 +42,26 @@ Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
 
 # Quais os desafios
 
-Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu | Grupo |
+Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu | Dia |
 ------------ | -------------  | -------------      | -------------   | ------------- |
-Imagina KIDS |                |                   |               | 1 |
-Shop da Peça | ver quanto evoluiu no P&H | | | 1 |
-Lifefood | Desenvolver MVP| | | 1 |
-I9TECH | | | | 1 |
-Biofluid | Desenvolver MVP | | | 1 |
-Servido | | | | 2 |
-AppCare | Desenvolver MVP | | | 2 |
-Dona Rita | Desenvolver MVP | | | 2 |
-Autodum | | | | 2 |
-Behapp | | | | 2 |
-Estacioni App | Desenvolver MVP | | | 3 |
-Up Entregas | Desenvolver MVP | | | 3 |
-Jus Advogados | | | | 3 |
-Appace | Desenvolver MVP | | | 3 |
-Eyetech | | | | 4 |
-Tecteca | Desenvolver MVP | | | 4 |
-Zone | Desenvolver MVP| | | 4 |
-Pick Place | Desenvolver MVP | | | 4 |
+Imagina KIDS |                |                   |               | 02/07 |
+Shop da Peça | ver quanto evoluiu no P&H | | | 02/07 |
+Lifefood | Desenvolver MVP| | | 02/07 |
+I9TECH | | | | 02/07 |
+Biofluid | Desenvolver MVP | | | 02/07 |
+Servido | | | | 02/07 |
+AppCare | Desenvolver MVP | | | 03/07 |
+Dona Rita | Desenvolver MVP | | | 03/07 |
+Autodum | | | | 03/07 |
+Behapp | | | | 03/07 |
+Estacioni App | Desenvolver MVP | | | 03/07 |
+Up Entregas | Desenvolver MVP | | | 03/07 |
+Jus Advogados | | | | 04/07 |
+Appace | Desenvolver MVP | | | 04/07 |
+Eyetech | | | | 04/07 |
+Tecteca | Desenvolver MVP | | | 04/07 |
+Zone | Desenvolver MVP| | | 04/07 |
+Pick Place | Desenvolver MVP | | | 04/07 |
 
 
 # Facilitador
