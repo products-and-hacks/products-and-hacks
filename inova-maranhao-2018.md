@@ -20,13 +20,13 @@ Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob
 # Como vai funcionar?
 
 Usaremos o [Zoom](https://zoom.us) para nos encontrar e um grupo de whatsapp para trocarmos mensagens. Cada startup criará um grupo com o facilitador e pode interagir sempre por lá. Colocar o nome "P&H - Inova - [NOME DA STARTUP]". Temos a comunicação constante e a qualquer momento, pode-se fazer uma videoconferência se não conseguirmos esclarecer pelo Whatsapp. Seguiremos a seguinte programação:
-  - 9:00 Setup, nos encontramos todos no  no link disponibilizado para se passar a agenda e alinhamento geral do grupo.
-  - 9:30-11:00 Alinhamento com cada startup individualmente do que conseguiremos fazer
-  - 11:00-12:00 Início do desenvolvimento do MVP.
-  - 12:00-13:00 Almoço
-  - 14:00-14:30 Checkpoint com o grupo de como anda o desenvolvimento
-  - 18:00-18:30 Checkpoint com o grupo de como anda o desenvolvimento
-  - 20:30-21:00 Entregas do que foi feito.
+  - **9:00-09:30** Setup, nos encontramos todos no  no link disponibilizado para se passar a agenda e alinhamento geral do grupo.
+  - **9:30-11:00** Alinhamento com cada startup individualmente do que conseguiremos fazer
+  - **11:00-12:00** Início do desenvolvimento do MVP.
+  - **12:00-13:00** Almoço
+  - **14:00-14:30** Checkpoint com o grupo de como anda o desenvolvimento
+  - **18:00-18:30** Checkpoint com o grupo de como anda o desenvolvimento
+  - **20:30-21:00** Entregas do que foi feito.
   
 # Qual _hack_ para qual problema?
 
