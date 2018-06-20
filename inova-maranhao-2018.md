@@ -3,9 +3,11 @@
 Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o [Inova Maranhão](http://inova.ma.gov.br)! Temos um grande desafio: **desenvolver nossos produtos/features da maneira mais ágil possível e entregar o valor para o cliente**. Temos alguns pressupostos:
 
   - Possuir o **problema bem definido** (usando o método que for);
-  - Estar **desapegados da solução** em si, mas amam e resolverão o problema no melhor balanço de custo *vs* benefício;
+  - Estar **desapegado da solução** em si, mas amam  o problema e resolverão no melhor balanço de custo *vs* benefício;
   - Querer se beneficiar do UI/UX, desenvolvimento e testes feitos pelos outros, ou seja, **usar SaaS (serviços na nuvem) e projetos conhecidos (o poder do _open source_)**; e
-  - Estar disposta a **falhar**, o melhor aprendizado é os *insights* saídos de ter o produto na mão do cliente.
+  - Estar disposto a **falhar**, pois o melhor aprendizado são os *insights* saídos de ter o produto na mão do cliente, ou seja, usando.
+  - Entender que desenvolver um produto é um processo de aprendizado e o produto em si é até secundário. O importante é entender que qualquer pessoa consegue desenvolver um produto digital. Essa imersão que é o objetivo, ou seja, **ter a experiência de desenvolver produto**.
+  - Entender que estamos falando de produtos digitais e o uso de *hacks* para isso. O foco é entregar produtos digitais com menos trabalho braçal e menos prótotipo e mais produto.
   
 
 # Antes de começar...
@@ -14,6 +16,17 @@ Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob
   - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
   - [FAQ](https://productsandhacks.com/#faq)
   - [Minimal Viable Feature](https://www.youtube.com/watch?v=DEXNf2xjyRw)
+  
+# Como vai funcionar?
+
+Usaremos o [Zoom](https://zoom.us) para nos encontrar e um grupo de whatsapp para trocarmos mensagens. Cada startup criará um grupo com o facilitador e pode interagir sempre por lá. Colocar o nome "P&H - Inova - [NOME DA STARTUP]". Temos a comunicação constante e a qualquer momento, pode-se fazer uma videoconferência se não conseguirmos esclarecer pelo Whatsapp. Seguiremos a seguinte programação:
+  - 9:00 Setup, nos encontramos todos no  no link disponibilizado para se passar a agenda e alinhamento geral do grupo.
+  - 9:30-11:00 Alinhamento com cada startup individualmente do que conseguiremos fazer
+  - 11:00-12:00 Início do desenvolvimento do MVP.
+  - 12:00-13:00 Almoço
+  - 14:00-14:30 Checkpoint com o grupo de como anda o desenvolvimento
+  - 18:00-18:30 Checkpoint com o grupo de como anda o desenvolvimento
+  - 20:30-21:00 Entregas do que foi feito.
   
 # Qual _hack_ para qual problema?
 
