@@ -7,7 +7,7 @@ Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob
   - Querer se beneficiar do UI/UX, desenvolvimento e testes feitos pelos outros, ou seja, **usar SaaS (serviços na nuvem) e projetos conhecidos (o poder do _open source_)**; e
   - Estar disposto a **falhar**, pois o melhor aprendizado são os *insights* saídos de ter o produto na mão do cliente, ou seja, usando.
   - Entender que desenvolver um produto é um processo de aprendizado e o produto em si é até secundário. O importante é entender que qualquer pessoa consegue desenvolver um produto digital. Essa imersão que é o objetivo, ou seja, **ter a experiência de desenvolver produto**.
-  - Entender que estamos falando de produtos digitais e o uso de *hacks* para isso. O foco é entregar produtos digitais com menos trabalho braçal e menos prótotipo e mais produto.
+  - Entender que estamos falando de **produtos digitais e o uso de _hacks_** para isso. O foco é entregar produtos digitais com menos trabalho braçal e menos prótotipo e mais produto.
   
 
 # Antes de começar...
