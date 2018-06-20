@@ -4,8 +4,8 @@
 
 Na sociedade da pós-informação - na qual o conhecimento está disponível sempre - o que importa para os líderes é a capacidade de construir com **criatividade** para **solucionar problemas** em **times multidisciplinares**. **Pensamento crítico** permite sermos seres pensantes - o único trabalho dígno do homem é o mental - e ler criticamente as informações disponíveis. Este somatório de conceitos, permite montarmos times e exercer o papel de **liderança** - o qual é necessário conhecer as limitações, guiar o time, escutar os *stackholders*, ter **adaptabilidade com resiliência** e **poder de decisão**. 
 
-  * [**Empresas Digitais, Startups e seus modelos**](https://www.youtube.com/watch?v=ukNiLp1plcI)
-  * [**Ecossistema de empresas digitais e startups**](https://www.youtube.com/watch?v=k0d8wS5ilHk)
+  * [**Empresas Digitais, Startups e seus modelos**](https://www.youtube.com/watch?v=ukNiLp1plcI) - Explicação da diferença das empresas digitais e corporações tradicionais, bem como, os modelos de neǵocios possíveis.
+  * [**Ecossistema de empresas digitais e startups**](https://www.youtube.com/watch?v=k0d8wS5ilHk) - Explicação de como funciona um ecossistema de startups e a cultura de colaboração.
   * [**Cultura aberta - a jornada do empreendedor - Even3**](https://medium.com/bastidores-even3/a-jornada-da-even3-do-zero-ao-seu-primeiro-investimento-d3caa58d32f5) - Uma explicação da forma de ver o mundo de uma startup: com uma cultura aberta e em constante troca de informação.
   * [**Competências necessárias**](https://go.efrem.io/ID-empreendedores) - Apresentação das competências necessárias para os trabalhos do futuro - ferramentas e habilidades.
   * [**MVP - Plano de negócio versão Vale do Silício**](https://go.efrem.io/mvp-the-fast-and-the-sujous) - Apresentação de como foi feito alguns MVPs e algumas dicas.   
