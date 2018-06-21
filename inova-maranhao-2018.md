@@ -20,7 +20,7 @@ Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob
   - Dar uma lida no [FAQ](https://productsandhacks.com/#faq);
   - Toda a equipe participa, principalmente os envolvidos com produto, desenvolvimento e design;
   - Estar junta a startup (equipe), provalvemente no local acordado;
-  - Criar grupo de discussão o quanto antes do workshop para cada startup com o nome **P&H - Inova - [NOME DA STARTUP]**;
+  - Criar grupo de discussão o quanto antes - **no máximo uma semana antes** - do workshop para cada startup com o nome **P&H - Inova - [NOME DA STARTUP]**;
   - Saber que o facilitador ficará remoto e disponível todo o horário por videoconferênica e no grupo de discussão no Whatsapp;
 
 Usaremos o [Zoom](https://zoom.us) para nos encontrar e o grupo de whatsapp para discutirmos. Pode interagir sempre por lá. Temos a comunicação constante e a qualquer momento, pode-se fazer uma videoconferência se não conseguirmos esclarecer pelo Whatsapp. 
