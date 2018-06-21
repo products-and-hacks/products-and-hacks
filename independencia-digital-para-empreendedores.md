@@ -62,3 +62,50 @@ Alguns dos eventos que ocorrem focados em inovação, empreendedorismo e o futur
   * [**SXSW**](https://sxsw.com) - Um dos maiores eventos do mundo sobre o mundo digital.
   * [**Startup Weekend**](https://startupweekend.org/) - Evento de um final de semana com o objetivo de passar a cultura de startup para os participantes.
 
+Aqui estão alguns temas extremamente necessários para quem quer empreender. Fora estes, também é necessários ser [independente digital](https://gist.github.com/efremfilho/7b532b0dc3922382748196d16933c96d). 
+
+# Como abrir uma startup (Extra)
+
+## O que precisa saber sobre *Vesting*
+
+### **vantagens**:teoria do agente, ownership, conseguir trazer talentos melhores
+
+### **desvantagens**: quadro societário, se é casado, decisões coletivas, phantom share 
+
+- pesar salário (ou pró-labore) *vs* equity
+- cultura de respeito e tratar como donos do negócios os funcionários
+- pensem no dream team
+- Motivação (Funcionários estrelas, além do vesting o setup da empresa)
+- não oferecer para todo mundo
+- período varia entre 2 e 5 anos
+- quantos funcionários? Para conseguir pensar o pool de ações)
+- cliff (ex. 25% primeiro ano e o resto dividido por mes ou por ano)
+- dilução
+- aceleração do vesting
+- vesting por tempo e por metas
+- [Contrato de vesting dos cofundarores](https://docs.google.com/document/d/111LEme6UMeVNECxMIOtN2O-p-Fj9uuXeodi8PZq347E/)
+- [Planilhas exemplo](http://go.efrem.io/analytics-startup) de como montar a estrutura de vesting e financeiro (slide 11)
+- [Vesting - o guia definitivo](http://marcelotoledo.com/vesting-o-guia-definitivo/)
+- [Funcionários estrelas e os gênios ( e como segurá-los com *vesting*](http://marcelotoledo.com/funcionarios-estrelas-e-os-genios/)
+- [Um time de vendas vencedor para sua startup](http://marcelotoledo.com/um-time-de-vendas-vencedor-para-sua-startup/)
+
+## O que precisa saber sobre *Advisors*
+
+### **Vantagens**: Pessoas maduras que lhe ajudam a pensar sobre tópicos importantes para a startup
+
+### **Desvantagens**: As agendas de pessoas boas, normalmente é bem complicado e as vezes tem muitos desencontros
+
+- Pessoas mais experientes que você quer ter no time (e muitas vezes não pode pagar)
+- Defina bem a interação (periodicidade, meio de comunicação, o que você espera q ele ajude).
+- Como separar uma porcentagem pra advisor
+- Função: consultiva
+- [Tenha Advisors](http://marcelotoledo.com/startups-tenha-advisors/)
+
+## O que precisa saber sobre *Board*
+### **Vantagens**: pessoas mais maduras para decidir assuntos estratégicos, visões diferentes tirando viés (pode ser desvantagem também)
+### **Desvantagens**: perda de parte do controle da startup, diretores e co-fundadores sairem por conflitos, feedbacks duros
+- Desassociar os sócios dos funcionários (funcionários podem ser demitidos, sócios tem que ser retirados e não necessariamente andam juntos)
+- Foco nas decisões estratégicas (A função principal do board of directors é apontar os administradores e tomar as decisões estratégicas da companhia)
+- Função: **deliberativa** e consultiva
+- Remuneração ações (normalmente com menor vesting) ou financeira 
+- [Como lidar com o board de diretores](http://marcelotoledo.com/como-lidar-com-o-board-of-directors/)
