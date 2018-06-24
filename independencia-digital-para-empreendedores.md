@@ -2,7 +2,7 @@
 
 # Preâmbulo
 
-Na sociedade da pós-informação - na qual o conhecimento está disponível sempre - o que importa para os líderes é a capacidade de construir com **criatividade** para **solucionar problemas** em **times multidisciplinares**. **Pensamento crítico** permite sermos seres pensantes - o único trabalho dígno do homem é o mental - e ler criticamente as informações disponíveis. Este somatório de conceitos, permite montarmos times e exercer o papel de **liderança** - o qual é necessário conhecer as limitações, guiar o time, escutar os *stackholders*, ter **adaptabilidade com resiliência** e **poder de decisão**. 
+Na sociedade da pós-informação - na qual o conhecimento está disponível sempre - o que importa para os líderes é a capacidade de construir com **criatividade** e **solucionar problemas** com **times multidisciplinares**. **Pensamento crítico** permite sermos seres pensantes - o único trabalho dígno do homem é o mental - e ler criticamente - julgando e considerando o contexto - as informações disponíveis. Este papel de **liderança** - o qual é importante conhecer as suas próprias limitações - para guiar o time, escutar os *stackholders*, ter **adaptabilidade com resiliência** e **poder de decisão** é o que se espera de um empreendedor. Aqui temos alguns conteúdos os quais explicam o contexto atual para empreendedores. 
 
   * [**Empresas Digitais, Startups e seus modelos**](https://www.youtube.com/watch?v=ukNiLp1plcI) - Explicação da diferença das empresas digitais e corporações tradicionais, bem como, os modelos de neǵocios possíveis.
   * [**Ecossistema de empresas digitais e startups**](https://www.youtube.com/watch?v=k0d8wS5ilHk) - Explicação de como funciona um ecossistema de startups e a cultura de colaboração.
@@ -12,12 +12,13 @@ Na sociedade da pós-informação - na qual o conhecimento está disponível sem
   * [**Hacks para lançar produtos digitais**](https://blog.manguez.al/5-hacks-para-lançar-um-produto-digital-ec9a10d1c266) - Texto resumo de alguns *hacks* usados para criar MVPs.
   * [**Transformação Digital do trabalho**](http://br.blog.trello.com/transformacao-digital) (por sinal esse blog é bem bom e tem outros posts interessantes) - Sobre transformação digital que as empresas estão passando - atualmente, toda empresa é digital.
   * [**Comunidades Empreendedoras**](https://www.youtube.com/watch?v=HoAi9jjm43w) - Vídeo explicando como o *networking* e a comunidade que se forma em torno dessas empresas digitais funcionam. 
-  * [**Futuro das profissiões** - vídeo](https://youtu.be/aPIPQ3Jfohk) - Explicação do Prof. Silvio Meira sobre o futuro das profissões.
-  * [**Futuro das Profissões** - texto](http://www.revistahsm.com.br/educacao-executiva/os-6-cs-do-futuro-do-trabalho/) - Entrevista com o Prof. Silvio Meira sobre o futuro das profissões.
+  * [**Futuro das Profissões - vídeo**](https://youtu.be/aPIPQ3Jfohk) - Explicação do Prof. Silvio Meira sobre o futuro das profissões.
+  * [**Futuro das Profissões - texto**](http://www.revistahsm.com.br/educacao-executiva/os-6-cs-do-futuro-do-trabalho/) - Entrevista com o Prof. Silvio Meira sobre o futuro das profissões.
+  * [**Como fazer um projeto paralelo sem sair do trabalho**](https://www.jotform.com/blog/build-a-startup-without-quitting-your-day-job/)
 
-# Tópicos relevantes
+# Tópicos relevantes e que achamos necessários para um líder empreendedor
 
-Tratam-se de conceitos essenciais para a formação de líderes empreendedores, mas que não são suficientes. Aqui se apresenta um único texto para exemplificar cada tópico e saber por onde começar. Claro, esses tópicos mudam e devem ser sempre revisados.
+Tratam-se de conceitos essenciais para a formação de líderes empreendedores, entretanto não são suficientes. Aqui se apresenta um único texto para exemplificar cada tópico e saber por onde começar. Claro, esses tópicos mudam e devem ser sempre revisados.
 
   * [**Habilidades necessárias para o futuro breve**](https://exame.abril.com.br/carreira/10-competencias-que-todo-professional-vai-precisar-ate-2020/) - Entender que importa menos o título do emprego e mais as habilidades para se adaptar a qualquer um emprego.
   * [**Design Thinking**](http://nite.ceuma.br/wiki/doku.php?id=entender-melhor-negocios-digitais) - Um das diversas formas de solução de problemas complexos e bastante difundida.
@@ -26,11 +27,11 @@ Tratam-se de conceitos essenciais para a formação de líderes empreendedores, 
   * [**Customer Success**](https://resultadosdigitais.com.br/blog/customer-success/) - O foco é em ter sucesso com o cliente. Muitas empresas, hoje, falam que o seu foco em atender o cliente e esse é o maior diferencial competitivo.
   * [**Marketing Digital**](https://resultadosdigitais.com.br/marketing-digital/) - O meio digital mudou a forma de fazer marketing e entender como se aproveitar de ferramentas digitias para executar o marketing é essencial.
   * [**Inbound Sales**](https://marketingconteudo.com/inbound-sales/) - O meio digital, também, mudou muito a forma de vender e aproveitar melhor a força de vendas.
-  * [**OKR e sistemas de Gestão**](https://endeavor.org.br/gestao-metas-metodologia-okr/) - Um sistema de métricas bastante difundido e que foi desenvolvido pela Intel e usado por grandes empresas digitais, porém não  o único e nem o mais adequado para toda e qualquer empresa. 
+  * [**OKR e sistemas de Gestão**](https://endeavor.org.br/gestao-metas-metodologia-okr/) - Um sistema de métricas bastante difundido e que foi desenvolvido pela Intel e usado por grandes empresas digitais, porém não  o único e nem o mais adequado para toda e qualquer empresa. Por exemplo, [métrica da Estrela do Norte](https://blog.growthhackers.com/what-is-a-north-star-metric-b31a8512923f). 
 
 # Ferramental  
 
-Apresenta-se o ferramental mínimo para um líder empreendedor. Essa lista não é completa, mas sim criada com base na experiência empírica do que já foi vivido e atualizada constantemente. Sempre é necessário uma revisitada à lista. Trata-se de ferramentas que facilitam - e muito! - a vida do empreendedor. Tais ferramentas visa permitir o empreendedor ser independente de qualquer profissional digital (a contratação de especialistas - ex. Engenheiros de Softwares e Designers de Produto) visa melhor eficiência do produto e não a **eficácia** necessariamente. 
+Apresenta-se o ferramental mínimo para um líder empreendedor. Essa lista não é completa, mas sim criada com base na experiência empírica do que já foi vivido e atualizada constantemente. Sempre é necessário uma revisitada à lista. Trata-se de ferramentas que facilitam - e muito! - a vida do empreendedor. Tais ferramentas visam permitir o empreendedor ser independente de qualquer profissional digital. Com isso, a contratação de especialistas - ex. Engenheiros de Softwares e Designers de Produto - visam melhor eficiência do produto e não a **eficácia**, pois para entregar o valor, pode-se usar de projetos *open source* e serviços disponíveis. 
 
   * [**Busca avançada no Google**](https://resultadosdigitais.com.br/blog/pesquisa-avancada-google/) - A coisa **mais importante** de saber, com isso, você descobre todos os outros.
   * [**Como subir projetos open source**](http://nite.ceuma.br/wiki/doku.php?id=como-utilizar-projetos-open-source) - Existe vários projetos parecidos com a necessidade que se quer resolver - você não é o único que teve essa idéia no mundo - e saber como utilizar um projeto já existente  importante.
@@ -61,8 +62,6 @@ Alguns dos eventos que ocorrem focados em inovação, empreendedorismo e o futur
   * [**Capital Empreendedora**](https://www.capitalempreendedora.com) - Evento focado em empreendedorismo e o mundo de startups.
   * [**SXSW**](https://sxsw.com) - Um dos maiores eventos do mundo sobre o mundo digital.
   * [**Startup Weekend**](https://startupweekend.org/) - Evento de um final de semana com o objetivo de passar a cultura de startup para os participantes.
-
-Aqui estão alguns temas extremamente necessários para quem quer empreender. Fora estes, também é necessários ser [independente digital](https://gist.github.com/efremfilho/7b532b0dc3922382748196d16933c96d). 
 
 # Como abrir uma startup (Extra)
 
