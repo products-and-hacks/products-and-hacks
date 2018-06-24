@@ -5,7 +5,8 @@ Evento focado no "desenvolvimento" ultra ágil de produtos digitiais. O [Product
 
 ## Acesso rápido
 
-  - [Trilha de Aprendizagem](https://universidadeagora.com/trilha-de-aprendizagem-products-and-hacks/)
+  - [Trilha de Aprendizagem - Empreendedor Digital](https://universidadeagora.com/trilha-de-aprendizagem-empreendedor-digital/)
+  - [Independência digital para empreendedores](https://productsandhacks.com/independencia-digital-para-empreendedores)
   - [Discussões para os MVPs](https://comunidade.universidadeagora.com/tags/mvp)
   - [Guia para Facilitadores](https://productsandhacks.com/guia-para-facilitadores)
   - [Products and Hacks #10](https://nite-ceuma.github.io/products-and-hacks/products-and-hacks-numero-10)
