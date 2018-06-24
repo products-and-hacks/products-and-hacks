@@ -33,18 +33,7 @@ Time         | Possível solução | Hacks pensados para os times | Na prática 
 As Pi Tec | Portifólio de Designers | Marketplace, E-commerce ou WordPress | |
 Charmanderes | Portifólio de Designers | Marketplace, E-commerce ou WordPress | |
 Cronos | Gestão de tempo de estudo | Sistema de Gestão ou Wekan | |
-Shop da Peça | Matching por Inteligência Artificial | Sistema de Gestão ou Google Sheets com Solver | Por já possuir um produto funcional com parte do desenvolvimento já pronto, utilizamos a logica de Minimal Viable Feature para validar a feature de “Envio de SMS de solicitação de orçamento aos fornecedores” etapa fundamental para que o matching seja agil.
-
-Objetivo:
-Precisavamos enviar um SMS aos fornecedores com um resumo do que estava sendo solicitado pelo usuário (solicitante). 
-
-Implementação:
-Foi utilizado o Laravel, framework open source para desenvolvimento do produto funcional, após isso iniciamos os testes usando serviço de email local mailtrap (SaaS) (mailtrap.io) para validar o envio da mensagem apos feita solicitação de orçamento de peça. Quando validamos o envio de email, implementamos o twilio (SaaS) (https://www.twilio.com/) para enviar o SMS, com isso atingimos um resultado satisfatório de envio de SMS para o numero que foi cadastrado simulando um fornecedor;
-Para os testes de SMS com o twilio cadastramos o numero de um membro da equipe.
-
-Pontos críticos:
-Inicialmente tinhamos outras features para validar, isso nos trouxe dificuldades para identificar qual sera a de maior importância. 
-Concluímos que a feature mais importante era a de envio de mensagem de solicicitação para os fornecedores pois isso é traz agilidade para o matching; |
+Shop da Peça | Matching por Inteligência Artificial | Sistema de Gestão ou Google Sheets com Solver | Por já possuir um produto funcional com parte do desenvolvimento já pronto, utilizamos a logica de Minimal Viable Feature para validar a feature de “Envio de SMS de solicitação de orçamento aos fornecedores” etapa fundamental para que o matching seja agil. **Objetivo**: Precisavamos enviar um SMS aos fornecedores com um resumo do que estava sendo solicitado pelo usuário (solicitante). **Implementação**: Foi utilizado o Laravel, framework open source para desenvolvimento do produto funcional, após isso iniciamos os testes usando serviço de email local mailtrap (SaaS) (mailtrap.io) para validar o envio da mensagem apos feita solicitação de orçamento de peça. Quando validamos o envio de email, implementamos o twilio (SaaS) (https://www.twilio.com/) para enviar o SMS, com isso atingimos um resultado satisfatório de envio de SMS para o numero que foi cadastrado simulando um fornecedor; Para os testes de SMS com o twilio cadastramos o numero de um membro da equipe. **Pontos críticos**: Inicialmente tinhamos outras features para validar, isso nos trouxe dificuldades para identificar qual sera a de maior importância. Concluímos que a feature mais importante era a de envio de mensagem de solicicitação para os fornecedores pois isso é traz agilidade para o matching; |
 Rocket | Marketplace para encontrar transporte adequado para crianças | Marketplace ou Sistema de Gestão | |
 Gabriel | Comunidade para ampliação do networking  para é iniciantes | Comunidade ou WordPress | |	
 Franciss | Sistema para agiliar processos em Consultoria Contábel | Sistema de Gestão | |		
