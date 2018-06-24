@@ -40,4 +40,4 @@ Franciss | Sistema para agiliar processos em Consultoria Contábel | Sistema de 
 Cidade Fácil | display de ofertas | E-commerce, WordPress ou Marketplace | |
 Gabriel Pestana | Comunidade para ampliar rede de contatos	| Comunidade ou WordPress | |
 Pedalando | AR para informações sobre direitos dos ciclistas | ZapWorks | |		
-Gabi | Plataforma web para acesso de profissionais, conteúdos e histórias dos jovens profissionais maranhenses | WordPress ou Marketplace |Usaram Github Pages e Typeform - https://github.com/impactomaker/mare|
+Maré | Plataforma web para acesso de profissionais, conteúdos e histórias dos jovens profissionais maranhenses | WordPress ou Marketplace |Usaram Github Pages e Typeform - https://github.com/impactomaker/mare|
