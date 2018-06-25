@@ -1,6 +1,6 @@
 [< voltar](https://productsandhacks.com)
 
-Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o [Inova Maranhão](http://inova.ma.gov.br), que aonctecerá nos dia **2, 3 e 4 de julho de 2018**! Temos um grande desafio: desenvolver nossos produtos/features da maneira mais ágil possível e entregar o valor para o cliente. Temos alguns pressupostos:
+Sejam bem-vindos ao [Products and Hacks](https://productsandhacks.com) feito sob medida para o [Inova Maranhão](http://inova.ma.gov.br), que aonctecerá nos dia **30 de junho (sábado) e 7 e 8 de julho de 2018 (sábado e domingo)**! Temos um grande desafio: desenvolver nossos produtos/features da maneira mais ágil possível e entregar o valor para o cliente. Temos alguns pressupostos:
 
   - Possuir o **problema bem definido** (usando o método que for);
   - Estar **desapegado da solução** em si, mas amam  o problema e resolverão no melhor balanço de custo *vs* benefício;
