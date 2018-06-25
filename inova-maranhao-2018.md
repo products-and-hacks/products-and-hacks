@@ -44,24 +44,24 @@ Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
 
 Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu | Dia |
 ------------ | -------------  | -------------      | -------------   | ------------- |
-Imagina KIDS |                |                   |               | 02/07 |
-Shop da Peça | ver quanto evoluiu no P&H | | | 02/07 |
-Lifefood | Desenvolver MVP| | | 02/07 |
-I9TECH | | | | 02/07 |
-Biofluid | Desenvolver MVP | | | 02/07 |
-Servido | | | | 02/07 |
-AppCare | Desenvolver MVP | | | 03/07 |
-Dona Rita | Desenvolver MVP | | | 03/07 |
-Autodum | | | | 03/07 |
-Behapp | | | | 03/07 |
-Estacioni App | Desenvolver MVP | | | 03/07 |
-Up Entregas | Desenvolver MVP | | | 03/07 |
-Jus Advogados | | | | 04/07 |
-Appace | Desenvolver MVP | | | 04/07 |
-Eyetech | | | | 04/07 |
-Tecteca | Desenvolver MVP | | | 04/07 |
-Zone | Desenvolver MVP| | | 04/07 |
-Pick Place | Desenvolver MVP | | | 04/07 |
+Imagina KIDS |                |                   |               |  |
+Shop da Peça | ver quanto evoluiu no P&H | | |  |
+Lifefood | Desenvolver MVP| | |  |
+I9TECH | | | |  |
+Biofluid | Desenvolver MVP | | |  |
+Servido | | | |  |
+AppCare | Desenvolver MVP | | |  |
+Dona Rita | Desenvolver MVP | | |  |
+Autodum | | | |  |
+Behapp | | | |  |
+Estacioni App | Desenvolver MVP | | |  |
+Up Entregas | Desenvolver MVP | | |  |
+Jus Advogados | | | |  |
+Appace | Desenvolver MVP | | |  |
+Eyetech | | | |  |
+Tecteca | Desenvolver MVP | | |  |
+Zone | Desenvolver MVP| | |  |
+Pick Place | Desenvolver MVP | | |  |
 
 
 # Facilitador
