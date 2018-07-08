@@ -45,20 +45,15 @@ Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
 Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu | Dia |
 ------------ | -------------  | -------------      | -------------   | ------------- |
 Imagina KIDS |                |                   |               |  |
-Shop da Peça | ver quanto evoluiu no P&H | | |  |
-Lifefood | Desenvolver MVP| | |  |
-I9TECH | | | |  |
-Biofluid | Desenvolver MVP | | |  |
+Lifefood | Desenvolver MVP| Shopify | "Durante o dia, foi possível desenvolver uma plataforma de vendas voltada ao grande público através do Shopify. O avanço do desenvolvimento foi possível por meio da cooperatividade e busca por conhecimento de pessoas atuantes na área, sejam consumidores ou comerciantes".
+ | 07/07 |
+GásNow | | | |  |
 Servido | | | |  |
 AppCare | Desenvolver MVP | | |  |
-Dona Rita | Desenvolver MVP | | |  |
-Autodum | | | |  |
-Behapp | | | |  |
+Dona Rita | Desenvolver MVP | chatbot | "O problema que a Dona Rita resolveu no P&H foi: como realizar vendas pelo site sem perder o mínimo de relacionamento com o cliente? Para resolver esse problema foi desenvolvido um chatbot usando o Landbot integrado ao PagSeguro que realiza o processo de vendas através de uma conversa onde o cliente pode interagir com ele e tirar suas dúvidas". | 30/06
 Estacioni App | Desenvolver MVP | | |  |
 Up Entregas | Desenvolver MVP | | |  |
-Jus Advogados | | | |  |
 Appace | Desenvolver MVP | | |  |
-Eyetech | | | |  |
 Tecteca | Desenvolver MVP | | |  |
 Zone | Desenvolver MVP| | |  |
 Pick Place | Desenvolver MVP | | |  |
