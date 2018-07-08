@@ -45,19 +45,16 @@ Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
 Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu | Dia |
 ------------ | -------------  | -------------      | -------------   | ------------- |
 Imagina KIDS |                |                   |               |  |
-Lifefood | Desenvolver MVP| Shopify | "Durante o dia, foi possível desenvolver uma plataforma de vendas voltada ao grande público através do Shopify. O avanço do desenvolvimento foi possível por meio da cooperatividade e busca por conhecimento de pessoas atuantes na área, sejam consumidores ou comerciantes".
- | 07/07 |
+Lifefood | Desenvolver MVP| Shopify | "Durante o dia, foi possível desenvolver uma plataforma de vendas voltada ao grande público através do Shopify. O avanço do desenvolvimento foi possível por meio da cooperatividade e busca por conhecimento de pessoas atuantes na área, sejam consumidores ou comerciantes". | 07/07 |
 GásNow | | | |  |
 Servido | | | |  |
 AppCare | Desenvolver MVP | | |  |
 Dona Rita | Desenvolver MVP | chatbot | "O problema que a Dona Rita resolveu no P&H foi: como realizar vendas pelo site sem perder o mínimo de relacionamento com o cliente? Para resolver esse problema foi desenvolvido um chatbot usando o Landbot integrado ao PagSeguro que realiza o processo de vendas através de uma conversa onde o cliente pode interagir com ele e tirar suas dúvidas". | 30/06
-Estacioni App | Desenvolver MVP | | |  |
-Up Entregas | Desenvolver MVP | | |  |
-Appace | Desenvolver MVP | | |  |
-Tecteca | Desenvolver MVP | | |  |
+Estacioni App | Desenvolver MVP | | "Até agora apresendemos sobre a possibilidade de utilizar  ferramentas que estão prontas e de integra-las para alcançar um objetivo (Google Sheets com Google Apps)". | 07/07 |
+Up Entregas | Desenvolver MVP | | "Solicitações das empresas por entrega - https://form.jotformz.com/81873710975669 e esse é um cadastro de motoboys https://form.jotformz.com/81875918475676, ficou para terminar uma integração do Google Sheets com o Trello (Gerenciamento da entrega dos motoboys)". | 07/07 |
+Spacce | Desenvolver MVP | | "Na atividade de hoje a startup Spacce pôde iniciar a prototipagem do seu aplicativo iDoe. A principal feature foi o desenvolvimento de uma interface responsiva capaz conectar doadores e donatários para o recebimento de recursos a instituições filantrópicas. O mecanismo usado foi a ferramenta Jotform incorporada a landpage da plataforma proprietária idoebrasil.combr. Nele foi criado um formulário baseado em geolocalização capaz de identificar o endereço do doador automaticamente e nele são informados os tipos de doação, endereço de recebimento e ainda é disparado um SMS para que as instituições filantrópicas possam de modo offline combinar as entregas, ou acessar a plataforma de chat(rocket Chat) da startup e tirar qualquer dúvida sobre o recebimento". | 30/06 |
+Tecteca | Desenvolver MVP | chatbot | "Conseguimos implementar o chatbot dos comentários e estruturar o sistema de pagamento". | 07/07 |
 Zone | Desenvolver MVP| | |  |
-Pick Place | Desenvolver MVP | | |  |
-
 
 # Facilitador
 <img style="vertical-align: middle; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/nite-ceuma/products-and-hacks/raw/gh-pages/img/efrem_maranhao_filho.png" alt="Éfrem Maranhão Filho">
