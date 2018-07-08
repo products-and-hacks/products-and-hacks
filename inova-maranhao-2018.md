@@ -34,12 +34,6 @@ Seguiremos a seguinte programação:
   - **18:00-18:30** Checkpoint com o grupo de como anda o desenvolvimento
   - **20:30-21:00** Entregas do que foi feito.
   
-# Qual _hack_ para qual problema?
-
-_Hacks_ | Casos | 
-------------- | ------------- | 
-Marketplace | Qualquer caso de vários fornecedores para vários clientes. |
-
 # Quais os desafios
 
 Startup      | Objetivo ou Dor | _Hacks_ sugeridos | O que aconteceu | Dia |
