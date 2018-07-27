@@ -41,21 +41,70 @@ Esse é o que realmente acredita no problema e não tem ideia de como começar a
 
 ## Dinâmica
 
-  - 08:10 - Início do credenciamento e _networking_
-  - 09:00 - Boas Vindas e Apresentação dos facilitadores
-  - 09:30 - Apresentação dos problemas e definição clara dos problemas
-  - **10:00 - Começar os trabalhos**
-
-  - 12:00 - Almoço (traga o seu)
-  - 13:00 - Retorno
-
-  - 19:30 - Preparar apresentação dos depoimentos
-  - **20:30 - Apresentação** 
-  - **21:00 - Hora da PIZZA**
+  - **9:00-09:30** Setup, nos encontramos todos no link disponibilizado para se passar a agenda e alinhamento geral do grupo.
+  - 9:30-11:00 Alinhamento com cada startup individualmente do que conseguiremos fazer
+  - 11:00-12:00 Início do desenvolvimento do MVP.
+  - **12:00-13:00** Almoço
+  - 14:00-14:30 Checkpoint com o grupo de como anda o desenvolvimento
+  - 18:00-18:30 Checkpoint com o grupo de como anda o desenvolvimento
+  - **20:30-21:00** Entregas do que foi feito e o depoimento de como foi feito (um parágrafo no máximo)
   
+# Exemplos de mensagens e tópicos discutidos nos grupos na semana antes
+
+## Por que criar o grupo uma semana antes
+
+> A ideia de criar o grupo `[X]` dias antes é para conseguirmos alinhar bem o que queremos fazer no dia e como vamos fazer. Ou seja, termos o problema que se quer resolver e como vamos resolver. Queria entender qual a dor que vocês levantaram. E a promessa é "trazemos o MVP amado em 12 horas"!
+
+## Não sei desenvolver/tecnologia, como faço?
+
+> O foco é exatamente nesse **APRENDIZADO** para vcs saberem se virar depois. não travar por conta da falta de produto. Fiquem a vontade para nessa semana também perguntar sobre essa *independência digital para empreendedores*. O material para tal, está aqui - https://productsandhacks.com/independencia-digital-para-empreendedores
+
+## Tenho problemas gerenciais e não problemas de produto
+
+> Inbound e Outbond Marketing são problemas muito mais ligado ao negócio do que ao produto, entende? Não é algo que a gente resolva em 12h, mas sim algo que se tem que ficar testando os canais. O produto sim, podemos resolver :)
+
+## Tenho que responder logo o grupo?
+
+> Sem pressa, o grupo é para comunicação assíncrona mesmo e mais síncrono deve ser nas 12 horas do evento! Mesmo assim, escrevemos em texto para não interromper o raciocínio. Olhem nos quando tiverem tempo e enviem dúvidas quando encontrarem um impedimento.
+
+## Produto/Feature conversacional
+
+> Para essa experiência mais conversacional temos algumas opções:
+> - conhecem o https://landbot.io/ ? Um exemplo de uso - http://mariecurie.com.br
+> - Outro caso é o https://typeform.com - pago porque dá para usar condicionais e customizar a experiência - integrado com o https://shopify.com  que dá para fazer o sistema de pagamento (usando o permalink para o checkout - https://help.shopify.com/themes/customization/cart/use-permalinks-to-preload-cart). Um exemplo de uso - https://imaginacaokids.com.br/pages/baixe-seus-moldes
+> - Outro caso é usando o youcanbook.me pago - pois dá para configura muita coisa também (https://youcanbook.me/features/), inclusive integrar com Zapier para usar o Twillio para disparar SMS (https://zapier.com/apps/twilio/integrations/youcanbookme)
+
+## Produto/Feature de pagamento recorrente (modelo de assinatura)
+
+> Esse é algo que ainda não tivemos um caso legal! Tem alguns que queremos testar, chama-se paywhirl (https://app.paywhirl.com). Fora esse, encontrei:
+> - https://www.zuora.com/products/
+> - https://www.chargebee.com/subscription-management/
+> - Outra opção é fazer um Google Sheets disparando triggers com o permalink de checkout do Shopify https://help.shopify.com/themes/customization/cart/use-permalinks-to-preload-cart) - ou outro sistema de pagamentos que vocês já usam.
+
+## Mensagem para abrir o dia 
+
+> Bom dia, gente! É hoje!!! Para lembramos a nossa programação:
+> - 9:00-09:30 Setup, nos encontramos todos no link disponibilizado para se passar a agenda e alinhamento geral do grupo.
+> - 9:30-11:00 Alinhamento com cada startup individualmente do que conseguiremos fazer
+> - 11:00-12:00 Início do desenvolvimento do MVP.
+> - 12:00-13:00 Almoço
+> - 14:00-14:30 Checkpoint com o grupo de como anda o desenvolvimento
+> - 18:00-18:30 Checkpoint com o grupo de como anda o desenvolvimento
+> - 20:30-21:00 Entregas do que foi feito e o depoimento de como foi feito (um parágrafo no máximo).
+> 
+> Pontos importantes:
+> - Não estamos preocupados com a viabilidade do produto aqui, só com problemas de como criar o MVP/MVF
+> - As mensagens são a maioria em texto, pois podemos fazer muita coisa assíncrona e não interromper o raciocínio de vocês no meio do desenvolvimento.
+> - A qualquer hora, se preferir, podemos fazer uma videoconferência
+> - Nosso canal de comunicação primário é o Whatsapp e para as videoconferências o Zoom.us (quem não tem, favor baixar)
+> - O mais importante é o APRENIDZADO gerado para que vocês possam construir qualquer MVP que quiserem. O MVP é importante, mas segundário comparado com o aprendizado.
+> Times que não estão acostumados com trabalho remoto é bom ficarem juntos (infelizmente acabam dispersando quando não estão).
+> 
+> É isso e boas 12 horas para nós! :)
+
 # Quer ser um Organizador?
 
-O papel do organizador é ser o responsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
+O papel do facilitador é ser o responsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
   1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time. Tamanho máximo do evento 25 pessoas.
   2. Reunião com [a gente](mailto:oi.nite@ceuma.br) para definir os problemas que podemos ajudar e os que não. 
   3. Escolha dos facilitadores (mais ou menos 1+ por time).
