@@ -102,7 +102,7 @@ Esse é o que realmente acredita no problema e não tem ideia de como começar a
 > 
 > É isso e boas 12 horas para nós! :)
 
-# Quer ser um Organizador?
+# Quer organizar um?
 
 O papel do facilitador é ser o responsável pelo evento e o ponto de contato com a gente. Para organizar um, há alguns passos a seguir:
   1. Abrir a inscrição individual dos participantes com os seguintes dados: Nome, Sobrenome, Email, Organização pertecente,  Problema a ser resolvido e Nome do Time. Tamanho máximo do evento 25 pessoas.
@@ -110,5 +110,5 @@ O papel do facilitador é ser o responsável pelo evento e o ponto de contato co
   3. Escolha dos facilitadores (mais ou menos 1+ por time).
   4. Conversa com os facilitadores para alinhamento.
   5. Criação de um canal de comunicação com todos os partipantes (ex. pelo menos dois grupos de whatsapp sendo um geral e um com os facilitadores).
-  6. Seguir a [dinâmica](https://nite-ceuma.github.io/products-and-hacks/#dinâmica) no dia do evento.
+  6. Seguir a [dinâmica](https://productsandhacks.com/guia-para-facilitadores#dinâmica) no dia do evento.
 
