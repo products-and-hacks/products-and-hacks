@@ -69,16 +69,18 @@ Alguns dos eventos que ocorrem focados em inovação, empreendedorismo e o futur
 
 ### **vantagens**:teoria do agente, ownership, conseguir trazer talentos melhores
 
-### **desvantagens**: quadro societário, se é casado, decisões coletivas, phantom share 
+### **desvantagens**: quadro societário, se é casado, decisões coletivas 
 
-- pesar salário (ou pró-labore) *vs* equity
+### Pontos importantes
+- phantom share
+- balanço salário (ou pró-labore) *vs* equity
 - cultura de respeito e tratar como donos do negócios os funcionários
-- pensem no dream team
+- pensem no *dream team*
 - Motivação (Funcionários estrelas, além do vesting o setup da empresa)
-- não oferecer para todo mundo
+- para quem vai oferecer
 - período varia entre 2 e 5 anos
-- quantos funcionários? Para conseguir pensar o pool de ações)
-- cliff (ex. 25% primeiro ano e o resto dividido por mes ou por ano)
+- quantos funcionários? Para conseguir pensar o *pool* de ações)
+- *cliff* (ex. 25% primeiro ano e o resto dividido por mes ou por ano)
 - dilução
 - aceleração do vesting
 - vesting por tempo e por metas
@@ -94,17 +96,23 @@ Alguns dos eventos que ocorrem focados em inovação, empreendedorismo e o futur
 
 ### **Desvantagens**: As agendas de pessoas boas, normalmente é bem complicado e as vezes tem muitos desencontros
 
-- Pessoas mais experientes que você quer ter no time (e muitas vezes não pode pagar)
+### Pontos importantes
+- Pessoas mais experientes que você quer ter no time (e muitas vezes não pode pagar ou nem é o interesse da pessoa)
 - Defina bem a interação (periodicidade, meio de comunicação, o que você espera q ele ajude).
-- Como separar uma porcentagem pra advisor
-- Função: consultiva
+- Como separar uma porcentagem pra advisor (Por exemplo, vejo variando de 2,5% a 0,1% para o ínício da startup)
+- Função: **consultiva**
 - [Tenha Advisors](http://marcelotoledo.com/startups-tenha-advisors/)
 
 ## O que precisa saber sobre *Board*
+
 ### **Vantagens**: pessoas mais maduras para decidir assuntos estratégicos, visões diferentes tirando viés (pode ser desvantagem também)
+
 ### **Desvantagens**: perda de parte do controle da startup, diretores e co-fundadores sairem por conflitos, feedbacks duros
+
+### Pontos importantes
+
 - Desassociar os sócios dos funcionários (funcionários podem ser demitidos, sócios tem que ser retirados e não necessariamente andam juntos)
-- Foco nas decisões estratégicas (A função principal do board of directors é apontar os administradores e tomar as decisões estratégicas da companhia)
+- Foco nas decisões estratégicas (A função principal do *board of directors* é apontar os administradores e tomar as decisões estratégicas da companhia)
 - Função: **deliberativa** e consultiva
-- Remuneração ações (normalmente com menor vesting) ou financeira 
+- Remuneração: ações (normalmente com menor vesting) ou financeira 
 - [Como lidar com o board de diretores](http://marcelotoledo.com/como-lidar-com-o-board-of-directors/)
