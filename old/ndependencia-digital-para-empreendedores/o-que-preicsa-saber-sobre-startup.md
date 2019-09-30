@@ -1,4 +1,6 @@
-# O que precisa saber sobre startup?
+# Startups, Ecossistemas e Habilidades básicas
+
+## O que precisa saber sobre startup?
   - Mindset
   - Gestão de produto
   - Nada mais são do que pequenas empresas focadas em crescimento baseado em tecnologia
@@ -11,18 +13,18 @@
   - Grandes empresas e startup mindset
     - Transformação digital
   
-# Ecossistema de empresas digitais (startups)
+## Ecossistema de empresas digitais (startups)
   - Exemplos
   - Exemplo do Vale do Silício
     - Primeira máfia
     - Segunda máfia
   - Mentores, Investidores, Fundadores e Funcionários
 
-# Diferença entre usuários e cliente
+## Diferença entre usuários e cliente
   - Usuários _vs_ Clientes, quem é mais importante?
   - Exemplos de negócios que diferenciam
 
-# Modelos de negócios
+## Modelos de negócios
   - Formas de receitas
     - Ads
     - Freemium
@@ -33,10 +35,10 @@
     
     
 # SOON (Habilidades importantes para empreendedores)
-# Design Thinking
-# Métodos Ágeis
-# Lean Startup
-# Customer Success
-# Marketing Digital
-# Inbound Sales
-# Analytics
+## Design Thinking
+## Métodos Ágeis
+## Lean Startup
+## Customer Success
+## Marketing Digital
+## Inbound Sales
+## Analytics
