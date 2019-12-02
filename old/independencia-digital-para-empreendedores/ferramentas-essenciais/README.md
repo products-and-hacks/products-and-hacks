@@ -17,20 +17,12 @@
   - marketplaces
   - ler o readme
 
-## Canva
-  - Como criar fotos com direitos autorais 
-  - Design rápidos 
-  - Logo em marketplaces
-
-## Outros (não cobertos) 
-  - Bubble.is
-  - Shopify
-  - Teachable
-  - Wordpress
-  - Pipefy
-  - G Suite
-  - Office
-  - Google Apps Script
+## UI/UX
+  - Entrevistando usuário/cliente
+  - Design thinking
+  - Jornada do usuário
+  - Paleta de cores
+  - Hack em UI - Imagens com direitos autorais, canva, logo
 
 ## Apis
   - O maravilhoso mundo das APIs
@@ -48,9 +40,19 @@
   - usando hidden fields
   - embedando (web e Oktopus)
 
-## Trello
+## Project Management
   - O que é? 
   - Divisão (times, quadros, add-ons, listas e cartões) 
   - Usando
   - Exemplo de add-ons (Buttler) 
   - Conversando com APIs
+
+## Outros (não cobertos) 
+  - Bubble.is
+  - Shopify
+  - Teachable
+  - Wordpress
+  - Pipefy
+  - G Suite
+  - Office
+  - Google Apps Script
