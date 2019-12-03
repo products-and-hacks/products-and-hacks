@@ -45,7 +45,7 @@
   - Divisão (times, quadros, add-ons, listas e cartões) 
   - Usando
   - Exemplo de add-ons (Buttler) 
-  - Conversando com APIs
+  - Conversando com APIs (exemplo de uso no **APIs**)
 
 ## Outros (não cobertos) 
   - Bubble.is
